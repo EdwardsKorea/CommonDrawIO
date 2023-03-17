@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-17T08:13:07.206Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="KADtPHB_XfpYJeqIn8C4" version="21.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-17T08:13:24.430Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="VRW0FIeRntubhSCIpiyv" version="21.0.2" type="github" pages="4">
   <diagram name="Main Block" id="Y6knwFs-T7UCbpDHQ6Iz">
     <mxGraphModel dx="1128" dy="624" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,9 +69,6 @@
         </mxCell>
         <mxCell id="F2_ptuYJuiwIA7A89eKy-19" value="Dilusion" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" parent="F2_ptuYJuiwIA7A89eKy-4" vertex="1">
           <mxGeometry x="566" y="76" width="84" height="32" as="geometry" />
-        </mxCell>
-        <mxCell id="Z85NJiL0Y72VuyLwdnMb-1" value="Khalid" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="56" y="54" width="184" height="138" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
