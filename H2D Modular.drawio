@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T08:10:16.528Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="D8JisFYKbEUnmpA7UaSt" version="21.1.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-03-28T09:51:41.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="0Y4qIMdJCueHv4totSkl" version="21.1.1" type="github" pages="9">
   <diagram id="iQmSwvzKtOvwUnxd-vjW" name="Plan">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1530,14 +1530,58 @@
             <mxPoint x="555" y="2030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OWbPu5oaaZ90fm1yfsVB-79" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Switch To Secondary&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;entry /&amp;nbsp; RaiseWarning&lt;br&gt;do / SwitchToSecondary()&lt;br&gt;exit /&amp;nbsp;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="1900" width="250" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="OWbPu5oaaZ90fm1yfsVB-84" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-130" y="120" width="1160" height="2090" as="geometry" />
         </mxCell>
+        <mxCell id="OWbPu5oaaZ90fm1yfsVB-79" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Switch To Secondary&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;entry /&amp;nbsp; RaiseWarning&lt;br&gt;do / SwitchToSecondary()&lt;br&gt;exit /&amp;nbsp;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="1900" width="250" height="100" as="geometry" />
+        </mxCell>
         <mxCell id="OWbPu5oaaZ90fm1yfsVB-85" value="StartUp Sequence" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=33;" vertex="1" parent="1">
           <mxGeometry x="321.25" y="130" width="328.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OWbPu5oaaZ90fm1yfsVB-86" value="" style="shape=ellipse;html=1;fillColor=strokeColor;fontSize=18;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="450" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OWbPu5oaaZ90fm1yfsVB-90" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;ShutDown Primary&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;entry / PrimaryFan.Stop&lt;br&gt;do /&amp;nbsp;&lt;br&gt;exit /&amp;nbsp;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="550" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="OWbPu5oaaZ90fm1yfsVB-91" value="ShutdownSignal" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.47;entryY=-0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OWbPu5oaaZ90fm1yfsVB-86" target="OWbPu5oaaZ90fm1yfsVB-90">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1300" y="510" as="sourcePoint" />
+            <mxPoint x="1460" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWbPu5oaaZ90fm1yfsVB-92" value="" style="shape=rhombus;html=1;labelPosition=right;align=left;verticalAlign=middle" vertex="1" parent="1">
+          <mxGeometry x="1305" y="710" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OWbPu5oaaZ90fm1yfsVB-93" value="" style="edgeStyle=elbowEdgeStyle;html=1;elbow=horizontal;align=right;verticalAlign=bottom;rounded=0;labelBackgroundColor=none;endArrow=open;endSize=12;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="OWbPu5oaaZ90fm1yfsVB-92" parent="1" source="OWbPu5oaaZ90fm1yfsVB-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1350" y="680" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWbPu5oaaZ90fm1yfsVB-95" value="SystemType = Single" style="edgeStyle=elbowEdgeStyle;html=1;elbow=vertical;align=left;endArrow=open;rounded=0;labelBackgroundColor=none;verticalAlign=bottom;endSize=12;" edge="1" source="OWbPu5oaaZ90fm1yfsVB-92" parent="1">
+          <mxGeometry x="-0.4167" y="5" relative="1" as="geometry">
+            <mxPoint x="1480" y="780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1450" y="745" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWbPu5oaaZ90fm1yfsVB-97" value="SystemType&lt;br&gt;??" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="730" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OWbPu5oaaZ90fm1yfsVB-98" value="" style="shape=mxgraph.sysml.flowFinal;labelPosition=right;verticalLabelPosition=top;spacingTop=5;spacingLeft=3;align=left;verticalAlign=top;resizable=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="780" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OWbPu5oaaZ90fm1yfsVB-100" value="SystemType = Dual" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1350" y="780" as="sourcePoint" />
+            <mxPoint x="1350" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OWbPu5oaaZ90fm1yfsVB-101" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;ShutDown Secondary&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;entry / SecondaryFan.Stop&lt;br&gt;do /&amp;nbsp;&lt;br&gt;exit /&amp;nbsp;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="860" width="200" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
