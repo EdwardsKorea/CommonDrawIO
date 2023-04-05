@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-05T10:49:46.908Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="yG1DFcP8nNLIb0bYEx8R" version="21.1.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-04-05T11:39:49.518Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="3_3Fnh0BuifpjOI22yfo" version="21.1.2" type="github" pages="9">
   <diagram id="iQmSwvzKtOvwUnxd-vjW" name="Plan">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2138,13 +2138,14 @@
             <mxPoint x="1380" y="3219" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LsKgWPEVPiqPcMs-haF0-16" value="H2D Enable Removed" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LsKgWPEVPiqPcMs-haF0-4">
+        <mxCell id="LsKgWPEVPiqPcMs-haF0-16" value="EUV&amp;nbsp; H2D Enable Removed" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LsKgWPEVPiqPcMs-haF0-4">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="990" y="3330" as="sourcePoint" />
             <mxPoint x="1150" y="3330" as="targetPoint" />
             <Array as="points">
               <mxPoint x="820" y="3330" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LsKgWPEVPiqPcMs-haF0-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LsKgWPEVPiqPcMs-haF0-18" target="LsKgWPEVPiqPcMs-haF0-13">
@@ -2152,6 +2153,87 @@
         </mxCell>
         <mxCell id="LsKgWPEVPiqPcMs-haF0-18" value="EMO" style="shape=mxgraph.sysml.accEvent;flipH=1;whiteSpace=wrap;align=center;html=1;" vertex="1" parent="1">
           <mxGeometry x="1440" y="3300" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LsKgWPEVPiqPcMs-haF0-20" value="H2D Control Sequence- Dual variant" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="2690" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LsKgWPEVPiqPcMs-haF0-21" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Sopped&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;entry / SecondaryDamperValve.Open()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;PrimaryDamperValve.Open()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;&amp;nbsp;ShutDownSequence()&lt;br&gt;do /&amp;nbsp;&lt;br&gt;exit /&amp;nbsp;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1206" y="3510" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="LsKgWPEVPiqPcMs-haF0-22" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Start-up&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;entry / StartupSequence()&lt;br&gt;do /&amp;nbsp;&lt;br&gt;exit /&amp;nbsp;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="800" y="3535" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LsKgWPEVPiqPcMs-haF0-23" value="Start/H2D Enable" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LsKgWPEVPiqPcMs-haF0-21">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="980" y="3595" as="sourcePoint" />
+            <mxPoint x="1000" y="3585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LsKgWPEVPiqPcMs-haF0-24" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Running&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;entry / FanSubController.SpeedVariation()&lt;br&gt;do /&amp;nbsp;&lt;br&gt;exit /&amp;nbsp;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="800" y="3795" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LsKgWPEVPiqPcMs-haF0-25" value="StartupCompleted" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LsKgWPEVPiqPcMs-haF0-22" target="LsKgWPEVPiqPcMs-haF0-24">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="870" y="3735" as="sourcePoint" />
+            <mxPoint x="1030" y="3735" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LsKgWPEVPiqPcMs-haF0-27" value="&amp;nbsp;Primary Failed" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;rounded=0;exitX=1;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry x="0.0909" y="5" width="160" relative="1" as="geometry">
+            <mxPoint x="1000" y="3820" as="sourcePoint" />
+            <mxPoint x="1220" y="3820" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LsKgWPEVPiqPcMs-haF0-29" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Faulted&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;entry / FanSubController.SpeedVariation()&lt;br&gt;do /&amp;nbsp;&lt;br&gt;exit /&amp;nbsp;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="3800" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LsKgWPEVPiqPcMs-haF0-31" value="ResetAlarm" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;rounded=0;exitX=0.445;exitY=-0.01;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LsKgWPEVPiqPcMs-haF0-29">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1580" y="3640" as="sourcePoint" />
+            <mxPoint x="1310" y="3660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1310" y="3720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LsKgWPEVPiqPcMs-haF0-32" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;ShutDown&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;entry / FanSubController.SpeedVariation()&lt;br&gt;do /&amp;nbsp;&lt;br&gt;exit /&amp;nbsp;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="4005" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LsKgWPEVPiqPcMs-haF0-33" value="H2D Enable Removed" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="LsKgWPEVPiqPcMs-haF0-32">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1320" y="3895" as="sourcePoint" />
+            <mxPoint x="1460" y="3954" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LsKgWPEVPiqPcMs-haF0-34" value="EUV Shutdown Complete,H2D Enable Removed" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LsKgWPEVPiqPcMs-haF0-24">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1070" y="4065" as="sourcePoint" />
+            <mxPoint x="1230" y="4065" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="900" y="4065" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LsKgWPEVPiqPcMs-haF0-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LsKgWPEVPiqPcMs-haF0-36" target="LsKgWPEVPiqPcMs-haF0-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LsKgWPEVPiqPcMs-haF0-36" value="EMO" style="shape=mxgraph.sysml.accEvent;flipH=1;whiteSpace=wrap;align=center;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="4035" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LsKgWPEVPiqPcMs-haF0-37" value="EUV Shutdown completed,H2D Enabled Removed" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1420" y="3850" as="sourcePoint" />
+            <mxPoint x="1410" y="3580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1610" y="3850" />
+              <mxPoint x="1610" y="3580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LsKgWPEVPiqPcMs-haF0-38" value="H2D Control Sequence- Single variant" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="3460" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
