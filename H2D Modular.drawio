@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-10T07:53:51.395Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="K9axQSeyhbm8wmRIf9ay" version="21.1.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-04-10T11:51:09.259Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="FktYOQONnjevGxgisYul" version="21.1.5" type="github" pages="10">
   <diagram id="iQmSwvzKtOvwUnxd-vjW" name="Plan">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2262,7 +2262,7 @@
             <mxPoint x="-250" y="3840" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DOOLH3kkdrV_fZzdFlyR-9" value="C(H2E1) &amp;lt;0.946" style="edgeStyle=elbowEdgeStyle;html=1;elbow=vertical;align=right;endArrow=open;rounded=0;labelBackgroundColor=none;endSize=12;" edge="1" source="DOOLH3kkdrV_fZzdFlyR-7" parent="1">
+        <mxCell id="DOOLH3kkdrV_fZzdFlyR-9" value="C(H2E1)&amp;gt; 0.5 &amp;amp; C(H2E1) &amp;lt;0.946" style="edgeStyle=elbowEdgeStyle;html=1;elbow=vertical;align=right;endArrow=open;rounded=0;labelBackgroundColor=none;endSize=12;" edge="1" source="DOOLH3kkdrV_fZzdFlyR-7" parent="1">
           <mxGeometry x="NaN" y="180" relative="1" as="geometry">
             <mxPoint x="-250" y="3970" as="targetPoint" />
             <mxPoint x="-60" y="170" as="offset" />
@@ -2408,7 +2408,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RxQ-jC8f-n9I2f0OFghF-39" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Set Fan Speed&amp;nbsp;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;entry /StartTime() IncreaseActiveFanSpeed(100);&lt;br&gt;do /&amp;nbsp;&lt;br&gt;exit /&amp;nbsp;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="RxQ-jC8f-n9I2f0OFghF-39" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Set Active Fan Speed&amp;nbsp;&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;entry /StartTime() IncreaseActiveFanSpeed(100);&lt;br&gt;do /&amp;nbsp;&lt;br&gt;exit /&amp;nbsp;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-640" y="4560" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="RxQ-jC8f-n9I2f0OFghF-41" value="Time &amp;gt; 5S" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -2417,8 +2417,11 @@
         <mxCell id="RxQ-jC8f-n9I2f0OFghF-42" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Maintain Fan Speed&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;entry /&lt;br&gt;do /&amp;nbsp;&lt;br&gt;exit /&amp;nbsp;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-315" y="4280" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="RxQ-jC8f-n9I2f0OFghF-44" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Set Active speed setpoint&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;entry /&amp;nbsp;&lt;br&gt;do /&amp;nbsp;&lt;br&gt;exit /&amp;nbsp;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="RxQ-jC8f-n9I2f0OFghF-44" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Set Active Fan speed&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;entry / Set Active Fan setpoint to Minimum&lt;br&gt;do /&amp;nbsp;&lt;br&gt;exit /&amp;nbsp;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="20" y="4290" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RxQ-jC8f-n9I2f0OFghF-47" value="" style="shape=mxgraph.sysml.flowFinal;labelPosition=right;verticalLabelPosition=top;spacingTop=5;spacingLeft=3;align=left;verticalAlign=top;resizable=0;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="4355" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
