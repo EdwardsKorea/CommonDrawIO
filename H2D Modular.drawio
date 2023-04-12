@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-12T07:37:58.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="kM0aG-if6DtzFOLBjfXJ" version="21.1.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-04-12T07:40:33.741Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="KpYRP5vRvGe_jUbiXkxT" version="21.1.5" type="github" pages="10">
   <diagram id="iQmSwvzKtOvwUnxd-vjW" name="Plan">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1600,9 +1600,6 @@
             <mxPoint x="460" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fompYzjAIG2faMZZVp-_-4" value="CH2DExtractController" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="130" width="140" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="Vf_aAtqTYQIoOuCNI1_O-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;CabinetExtractPressure(PT301)&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;entry / ClearAlarm()&lt;br&gt;do /&amp;nbsp;&lt;br&gt;exit /&amp;nbsp;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="150" y="320" width="200" height="100" as="geometry" />
         </mxCell>
@@ -1706,6 +1703,18 @@
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Um1ogMs4LN5hA3tphQE5-1" value="CH2DExtractController" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="130" width="280" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="Um1ogMs4LN5hA3tphQE5-2" value="+ CabinetExtractPressure : CAnalougeInput&lt;br&gt;+ HydrogenConcentration : CAnalougeInput&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Um1ogMs4LN5hA3tphQE5-1">
+          <mxGeometry y="26" width="280" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="Um1ogMs4LN5hA3tphQE5-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="Um1ogMs4LN5hA3tphQE5-1">
+          <mxGeometry y="70" width="280" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="Um1ogMs4LN5hA3tphQE5-4" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Um1ogMs4LN5hA3tphQE5-1">
+          <mxGeometry y="78" width="280" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
