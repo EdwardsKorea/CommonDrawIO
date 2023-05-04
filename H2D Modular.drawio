@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T00:36:02.806Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="YgJLqNa07ZMa7WJKCGO1" version="21.2.3" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-05-04T00:39:51.209Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="tKaGTDD4vwBUSLTyolCw" version="21.2.3" type="github" pages="10">
   <diagram id="iQmSwvzKtOvwUnxd-vjW" name="Plan">
     <mxGraphModel dx="2074" dy="1124" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -679,6 +679,9 @@
         </mxCell>
         <mxCell id="mUWLlIf4oAKnpMXG6wOS-1" value="Need to move Exhuast unit" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" parent="1" vertex="1">
           <mxGeometry x="-28" y="340" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VDpe3xgGjXdhqkWUhat3-1" value="All alarm logic need to include&lt;br&gt;1) trigger ontime delay.&amp;nbsp;&lt;br&gt;2) alarm clear boundry setpoint&lt;br&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=" vertex="1" parent="1">
+          <mxGeometry x="-194" y="740" width="576" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
