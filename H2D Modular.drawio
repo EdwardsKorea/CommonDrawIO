@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-05T04:23:08.348Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="szz1SwLPq3IOKjEAOwJ-" version="21.2.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-05-05T04:49:58.586Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="kFxgfMr5zWjuPUsgemT_" version="21.2.7" type="github" pages="10">
   <diagram id="iQmSwvzKtOvwUnxd-vjW" name="Plan">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -687,7 +687,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Rr_T0UThJ-qIpxV-RBs2" name="FanController">
-    <mxGraphModel dx="2074" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1240,17 +1240,37 @@
             <mxPoint x="80" y="1330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xLmbu8i54__fyR-YDNYm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.537;entryY=0.03;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xLmbu8i54__fyR-YDNYm-5" target="xLmbu8i54__fyR-YDNYm-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="393" y="1525" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xLmbu8i54__fyR-YDNYm-4" value="Not PrimaryFan.Fault" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xLmbu8i54__fyR-YDNYm-2">
+          <mxGeometry x="0.4788" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xLmbu8i54__fyR-YDNYm-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PtQl9zLVhFmCfwnYRZp7-22" target="xLmbu8i54__fyR-YDNYm-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PtQl9zLVhFmCfwnYRZp7-22" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;SecondaryFanRunning&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;entry / PrimaryFan.Stop()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;PrimaryDamperOutletValve.Close()&lt;br&gt;do /&amp;nbsp;&lt;br&gt;exit /&amp;nbsp;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="-24.5" y="1330" width="229" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="PtQl9zLVhFmCfwnYRZp7-26" value="" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="PtQl9zLVhFmCfwnYRZp7-22" edge="1">
+        <mxCell id="PtQl9zLVhFmCfwnYRZp7-26" value="" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="xLmbu8i54__fyR-YDNYm-5" edge="1" target="PtQl9zLVhFmCfwnYRZp7-27">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="28" y="1510" as="sourcePoint" />
-            <mxPoint x="90" y="1570" as="targetPoint" />
+            <mxPoint x="94.5" y="1580" as="sourcePoint" />
+            <mxPoint x="94.5" y="1670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PtQl9zLVhFmCfwnYRZp7-27" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;NoBackupAvailable&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;entry / RaiseWarning()&lt;br&gt;do /&amp;nbsp;&lt;br&gt;exit /&amp;nbsp;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="-24.5" y="1570" width="229" height="100" as="geometry" />
+        <mxCell id="xLmbu8i54__fyR-YDNYm-3" value="PrimaryFan.Fault" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PtQl9zLVhFmCfwnYRZp7-26">
+          <mxGeometry x="-0.3143" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PtQl9zLVhFmCfwnYRZp7-27" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;NoBackupAvailable&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;entry / RaiseWarning()&lt;br&gt;do / CheckForPrimaryFanStatus()&lt;br&gt;exit /&amp;nbsp;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-19" y="1690" width="229" height="100" as="geometry" />
         </mxCell>
         <mxCell id="PtQl9zLVhFmCfwnYRZp7-28" value="Secondary Fan Error or Secondary Fan Stop ]/SecondaryDamprValve.Close/SecondaryFan.Close()" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;rounded=0;entryX=0.815;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="PtQl9zLVhFmCfwnYRZp7-11" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -1274,19 +1294,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PtQl9zLVhFmCfwnYRZp7-30" value="SwitchToSecondaryCommand" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.46;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="PtQl9zLVhFmCfwnYRZp7-1" target="PtQl9zLVhFmCfwnYRZp7-2" edge="1">
-          <mxGeometry x="0.1411" y="18" width="160" relative="1" as="geometry">
+          <mxGeometry x="0.8203" y="8" width="160" relative="1" as="geometry">
             <mxPoint x="-80" y="500" as="sourcePoint" />
             <mxPoint x="80" y="500" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PtQl9zLVhFmCfwnYRZp7-32" value="SwitchToPrimary/ClearWarning()" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;rounded=0;" parent="1" edge="1">
+        <mxCell id="PtQl9zLVhFmCfwnYRZp7-32" value="ExitNoBackupState/ClearWarning()" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="PtQl9zLVhFmCfwnYRZp7-27">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-30" y="1580" as="sourcePoint" />
-            <mxPoint x="80" y="490" as="targetPoint" />
+            <mxPoint x="-28.5" y="1690" as="sourcePoint" />
+            <mxPoint x="80" y="470" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-250" y="1580" />
-              <mxPoint x="-250" y="490" />
+              <mxPoint x="-280" y="1740" />
+              <mxPoint x="-280" y="470" />
+              <mxPoint x="-150" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1600,6 +1621,26 @@
         </mxCell>
         <mxCell id="QGZJ8T1lgQtC9HMqORBI-50" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Minor Variation&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;entry / RaiseWarning()&lt;br&gt;do /&amp;nbsp;&lt;br&gt;exit /&amp;nbsp;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
           <mxGeometry x="2920" y="1290" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xLmbu8i54__fyR-YDNYm-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;RunningOnSecondary&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;entry / RaiseWarning()&lt;br&gt;do /&amp;nbsp;&lt;br&gt;exit /&amp;nbsp;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1570" width="229" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xLmbu8i54__fyR-YDNYm-5" value="" style="shape=rhombus;html=1;labelPosition=right;align=left;verticalAlign=middle;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="42.5" y="1490" width="106" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xLmbu8i54__fyR-YDNYm-6" value="Primary Fan Status??" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65.5" y="1510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xLmbu8i54__fyR-YDNYm-10" value="SwitchToPrimaryCommand" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;rounded=0;exitX=-0.013;exitY=0.61;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xLmbu8i54__fyR-YDNYm-1">
+          <mxGeometry x="-0.0016" y="-50" width="160" relative="1" as="geometry">
+            <mxPoint x="71" y="1630" as="sourcePoint" />
+            <mxPoint x="80" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-190" y="1630" />
+              <mxPoint x="-190" y="520" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
