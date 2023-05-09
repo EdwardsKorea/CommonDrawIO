@@ -1,9 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2023-05-09T02:13:12.233Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.2.9" etag="3R5Zi1ER0oVFfBAxaEd7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-09T02:29:00.846Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="tfgTd0hKl2tNo5ggmoTD" version="21.2.9" type="github">
   <diagram name="페이지-1" id="UG-Ofu5WpkIKn-2PXktu">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Pk6wZpclqD4QDxRbJoCq-24" value="Platform SW Stablization (Abingdon, Modulization PLC Archtecuture)&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="810" width="730" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk6wZpclqD4QDxRbJoCq-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="150" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk6wZpclqD4QDxRbJoCq-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="370" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk6wZpclqD4QDxRbJoCq-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="370" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk6wZpclqD4QDxRbJoCq-5" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="370" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk6wZpclqD4QDxRbJoCq-7" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="370" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk6wZpclqD4QDxRbJoCq-9" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk6wZpclqD4QDxRbJoCq-10" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="280" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk6wZpclqD4QDxRbJoCq-11" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="370" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk6wZpclqD4QDxRbJoCq-12" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="370" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk6wZpclqD4QDxRbJoCq-13" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="370" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk6wZpclqD4QDxRbJoCq-14" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="370" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk6wZpclqD4QDxRbJoCq-15" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="370" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk6wZpclqD4QDxRbJoCq-16" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="370" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk6wZpclqD4QDxRbJoCq-17" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="370" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk6wZpclqD4QDxRbJoCq-18" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="370" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk6wZpclqD4QDxRbJoCq-19" value="EUV Family" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="550" width="735" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk6wZpclqD4QDxRbJoCq-4" value="Ethan" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="570" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk6wZpclqD4QDxRbJoCq-21" value="SQA /&lt;br&gt;&amp;nbsp;Test Engineerting &amp;gt; Software to Software Test (Unit Test, Automated Test, Regerssion Test , DevOps (CD/CI)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="680" width="735" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk6wZpclqD4QDxRbJoCq-22" value="Evlin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="701.25" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Pk6wZpclqD4QDxRbJoCq-23" value="Roy&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="820" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
