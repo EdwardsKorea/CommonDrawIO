@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-12T07:24:06.831Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="jgoAkqTxoWNIOtAoObod" version="21.2.9" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-05-12T07:34:11.489Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="n45IRIdBqTj3nrRdJeV5" version="21.2.9" type="github" pages="11">
   <diagram id="iQmSwvzKtOvwUnxd-vjW" name="Plan">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -609,7 +609,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4NAKpxvgNQJE2-UT1lva" name="DiffusreEnclousre">
-    <mxGraphModel dx="1834" dy="756" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="699" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1670,8 +1670,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HiY7RpyDV1RdXW7q1E4h-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Primary Fault&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;entry / RaiseAlarm(),SetSwitchToSecondary()&lt;br&gt;do /&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;exit /&amp;nbsp;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="890" y="1055" width="229" height="100" as="geometry" />
+        <mxCell id="S6NzsOAIdXGRnRcyfHB8-1" value="ExitFaultState" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HiY7RpyDV1RdXW7q1E4h-5">
+          <mxGeometry x="-0.4043" y="2" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HiY7RpyDV1RdXW7q1E4h-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Primary Fault&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;entry /&lt;/p&gt;&amp;nbsp;SetSwitchToPrimary(False)&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;&amp;nbsp;RaiseAlarm(),SetSwitchToSecondary()&lt;br&gt;do / CheckForPrimaryStatus()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;exit /&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="890" y="1055" width="229" height="115" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
