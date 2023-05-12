@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-12T07:54:43.518Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Z-bIQc9iHTHF6FUi_bvx" version="21.2.9" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-05-12T09:22:30.954Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="60J9gDYQrANgZme1AsqA" version="21.2.9" type="github" pages="11">
   <diagram id="iQmSwvzKtOvwUnxd-vjW" name="Plan">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1702,11 +1702,25 @@
         <mxCell id="HiY7RpyDV1RdXW7q1E4h-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Primary Fault&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;entry /&lt;/p&gt;&amp;nbsp;SetSwitchToPrimary(False)&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;&amp;nbsp;RaiseAlarm(),SetSwitchToSecondary()&lt;br&gt;do / CheckForPrimaryStatus()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;exit /&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="890" y="1055" width="229" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="S6NzsOAIdXGRnRcyfHB8-6" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Secondary Fan Fault&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;entry /&lt;/p&gt;RaiseAlarm()&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;SetSwitchToPrimary(True)&lt;br&gt;do / CheckForSecondaryFanStatus()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;exit /&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="134" y="1960" width="229" height="115" as="geometry" />
+        <mxCell id="S6NzsOAIdXGRnRcyfHB8-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="S6NzsOAIdXGRnRcyfHB8-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-240" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S6NzsOAIdXGRnRcyfHB8-6" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Secondary Fan Fault&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;entry /&lt;/p&gt;RaiseAlarm()&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;SetSwitchToPrimary(True)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;SetSwitchToSecondary(False)&lt;br&gt;do / CheckForSecondaryFanStatus()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;exit /&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="134" y="1960" width="229" height="130" as="geometry" />
         </mxCell>
         <mxCell id="S6NzsOAIdXGRnRcyfHB8-9" value="SecondaryFan.Fault&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="380" y="1740" as="geometry" />
+        </mxCell>
+        <mxCell id="S6NzsOAIdXGRnRcyfHB8-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-240" y="490" as="sourcePoint" />
+            <mxPoint x="80" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S6NzsOAIdXGRnRcyfHB8-13" value="NOT SecondarryFanFault" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-184.5" y="1980" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
