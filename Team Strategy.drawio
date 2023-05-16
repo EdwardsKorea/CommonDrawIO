@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T08:12:50.747Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="_OA-Jukk1nQhEE80ZWgt" version="21.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-05-16T08:59:14.781Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="72EfGR7aWEuA0Wt9wKxE" version="21.3.0" type="github" pages="3">
   <diagram name="TeamStrategy" id="UG-Ofu5WpkIKn-2PXktu">
-    <mxGraphModel dx="2966" dy="1904" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3575" dy="2301" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -429,11 +429,11 @@
             <mxPoint x="2732" y="1937" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CW9I15_FvIqP1IgBjhKX-57" value="&lt;h1&gt;Benefits of Modular&amp;nbsp;&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="CW9I15_FvIqP1IgBjhKX-57" value="&lt;h1&gt;Benefits of Common Modular Platform&amp;nbsp;&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2934" y="1656" width="486" height="120" as="geometry" />
         </mxCell>
         <mxCell id="CW9I15_FvIqP1IgBjhKX-58" value="Replace AValue 15&quot;?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1936" y="1021" width="120" height="60" as="geometry" />
+          <mxGeometry x="1929" y="1046" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CW9I15_FvIqP1IgBjhKX-59" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1390" y="1714" width="162" height="298" as="geometry" />
