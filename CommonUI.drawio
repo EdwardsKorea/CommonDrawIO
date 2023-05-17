@@ -1,9 +1,21 @@
-<mxfile host="app.diagrams.net" modified="2023-05-17T04:39:08.384Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.3.2" etag="4rJMhZiYeEx-R48l2wBZ" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-17T07:50:14.767Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="l6b6XzAbn1Mt_bja5LLq" version="21.3.2" type="github">
   <diagram name="페이지-1" id="AjfqnJPC3hWA693BRTDQ">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BJclJm3d2pDSaYbPGEFS-1" value="UI Group" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="130" y="80" width="520" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="BJclJm3d2pDSaYbPGEFS-2" value="Kanban Group&lt;br&gt;Application&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="160" y="340" width="460" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="BJclJm3d2pDSaYbPGEFS-3" value="Scrum Group&lt;br&gt;Platform&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="160" y="144" width="450" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="BJclJm3d2pDSaYbPGEFS-4" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="384" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
