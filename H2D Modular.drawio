@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-15T07:16:07.210Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="nmT58w2j4BB_nPhG0GT5" version="21.2.9" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-05-17T02:28:15.052Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="iep9NDpPWPD5d0Wo4icR" version="21.3.0" type="github" pages="11">
   <diagram id="iQmSwvzKtOvwUnxd-vjW" name="Plan">
-    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1128" dy="719" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,7 +44,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Main Block" id="Y6knwFs-T7UCbpDHQ6Iz">
-    <mxGraphModel dx="3022" dy="719" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6166" dy="2876" grid="1" gridSize="2" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -687,7 +687,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Rr_T0UThJ-qIpxV-RBs2" name="FanController">
-    <mxGraphModel dx="1368" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1128" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -707,7 +707,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xn8TCdQ_MCS-TlWCO_-u" name="DilutionSubSystem">
-    <mxGraphModel dx="1368" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1128" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -857,7 +857,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gaeoU5mlcv3bUiePqdjp" name="H2DExtractController">
-    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1128" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -993,7 +993,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SCIywS24lLD4Jex1si3d" name="ExhaustFeedbackController">
-    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1128" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1794,6 +1794,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="T6CcZnC3Ys6o-bkYTTAd-1" value="See if the H2D system automatically tries to automatically go for second attemp of siwtching or waits for switching signal" style="whiteSpace=wrap;html=1;fontSize=16;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;fillStyle=dots;" vertex="1" parent="1">
+          <mxGeometry x="540" y="920" width="170" height="160" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -2194,7 +2197,7 @@
             <mxPoint x="950" y="3000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LsKgWPEVPiqPcMs-haF0-6" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Redundancy Running&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;entry / FanSubController.SpeedVariation()&lt;br&gt;do /&amp;nbsp;&lt;br&gt;exit /&amp;nbsp;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="LsKgWPEVPiqPcMs-haF0-6" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Redundancy Running&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;entry&lt;/p&gt;FanControl.SwitchToPrimary(False)&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;&amp;nbsp;/FanControl.SwitchToSecondary(True) FanSubController.SpeedVariation()&lt;br&gt;do /&amp;nbsp;&lt;br&gt;exit /&amp;nbsp;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1140" y="3060" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LsKgWPEVPiqPcMs-haF0-7" value="Switch To Secondary, Primary Failed" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;rounded=0;exitX=1;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
@@ -2215,7 +2218,7 @@
         </mxCell>
         <mxCell id="LsKgWPEVPiqPcMs-haF0-11" value="Secondary Fan Failed" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;rounded=0;entryX=0.61;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="LsKgWPEVPiqPcMs-haF0-10" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1340" y="3120" as="sourcePoint" />
+            <mxPoint x="1400" y="3120" as="sourcePoint" />
             <mxPoint x="1500" y="3120" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1562" y="3120" />
@@ -2233,7 +2236,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LsKgWPEVPiqPcMs-haF0-13" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;ShutDown&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;text-align:left;&quot;&gt;entry / FanSubController.SpeedVariation()&lt;br&gt;do /&amp;nbsp;&lt;br&gt;exit /&amp;nbsp;&lt;/p&gt;" style="shape=mxgraph.sysml.simpleState;html=1;overflow=fill;whiteSpace=wrap;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1140" y="3270" width="200" height="100" as="geometry" />
+          <mxGeometry x="1170" y="3270" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="LsKgWPEVPiqPcMs-haF0-14" value="H2D Enable Removed" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="LsKgWPEVPiqPcMs-haF0-6" target="LsKgWPEVPiqPcMs-haF0-13" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -2241,7 +2244,7 @@
             <mxPoint x="1380" y="3219" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LsKgWPEVPiqPcMs-haF0-16" value="EUV&amp;nbsp; H2D Enable Removed" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="LsKgWPEVPiqPcMs-haF0-4" edge="1">
+        <mxCell id="LsKgWPEVPiqPcMs-haF0-16" value="EUV&amp;nbsp; H2D Enable Removed" style="edgeStyle=none;html=1;endArrow=open;endSize=12;strokeWidth=3;verticalAlign=bottom;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.014;entryY=0.624;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="LsKgWPEVPiqPcMs-haF0-4" edge="1" target="LsKgWPEVPiqPcMs-haF0-13">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="990" y="3330" as="sourcePoint" />
             <mxPoint x="1150" y="3330" as="targetPoint" />
@@ -2251,11 +2254,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LsKgWPEVPiqPcMs-haF0-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="LsKgWPEVPiqPcMs-haF0-18" target="LsKgWPEVPiqPcMs-haF0-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="LsKgWPEVPiqPcMs-haF0-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LsKgWPEVPiqPcMs-haF0-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1420" y="3320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="LsKgWPEVPiqPcMs-haF0-18" value="EMO" style="shape=mxgraph.sysml.accEvent;flipH=1;whiteSpace=wrap;align=center;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1440" y="3300" width="140" height="40" as="geometry" />
+          <mxGeometry x="1520" y="3300" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LsKgWPEVPiqPcMs-haF0-20" value="H2D Control Sequence- Dual variant" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="1100" y="2690" width="220" height="40" as="geometry" />
