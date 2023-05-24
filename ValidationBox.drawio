@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T07:27:32.701Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="vbIT4EBdl_xl8gXFnzVl" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T08:58:08.285Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="lhoq9nSk4RRo7pr1fJas" version="21.3.2" type="github" pages="2">
   <diagram name="페이지-1" id="ucnYhN0G6u-poQc_V0eM">
-    <mxGraphModel dx="3172" dy="2218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="2178" dy="1904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -523,6 +523,78 @@
               <mxPoint x="410" y="1290" />
             </Array>
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="L78JSbI0Cxm5szktlhP2" name="Structure">
+    <mxGraphModel dx="743" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pe7_AlDd5Qvr_0fEn_tT-9" value="Actual" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="244" y="40" width="616" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="pe7_AlDd5Qvr_0fEn_tT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pe7_AlDd5Qvr_0fEn_tT-1" target="pe7_AlDd5Qvr_0fEn_tT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pe7_AlDd5Qvr_0fEn_tT-1" value="Validation Box&amp;nbsp;&lt;br&gt;Kit (Beckhoff PLC)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pe7_AlDd5Qvr_0fEn_tT-2" value="FPM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pe7_AlDd5Qvr_0fEn_tT-5" value="MPC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pe7_AlDd5Qvr_0fEn_tT-8" value="ADS" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pe7_AlDd5Qvr_0fEn_tT-7" target="pe7_AlDd5Qvr_0fEn_tT-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pe7_AlDd5Qvr_0fEn_tT-7" value="Validation Tool SW&lt;br&gt;C# WPF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pe7_AlDd5Qvr_0fEn_tT-10" value="Simulation" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="244" y="330" width="616" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="pe7_AlDd5Qvr_0fEn_tT-18" value="Python Simulator&lt;br&gt;192.168.3.181" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="690" y="370" width="160" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="pe7_AlDd5Qvr_0fEn_tT-13" value="Validation Box&amp;nbsp;&lt;br&gt;Kit (Beckhoff PLC)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pe7_AlDd5Qvr_0fEn_tT-14" value="FPM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pe7_AlDd5Qvr_0fEn_tT-15" value="MPC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pe7_AlDd5Qvr_0fEn_tT-16" value="ADS" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="pe7_AlDd5Qvr_0fEn_tT-17" target="pe7_AlDd5Qvr_0fEn_tT-13" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pe7_AlDd5Qvr_0fEn_tT-17" value="Validation Tool SW&lt;br&gt;C# WPF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pe7_AlDd5Qvr_0fEn_tT-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="pe7_AlDd5Qvr_0fEn_tT-13" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="670" y="450" />
+              <mxPoint x="670" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pe7_AlDd5Qvr_0fEn_tT-11" value="Modbus" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="pe7_AlDd5Qvr_0fEn_tT-13" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="450" />
+              <mxPoint x="600" y="450" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pe7_AlDd5Qvr_0fEn_tT-4" value="EtherCAT" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pe7_AlDd5Qvr_0fEn_tT-1" target="pe7_AlDd5Qvr_0fEn_tT-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
