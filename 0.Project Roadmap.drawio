@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T03:08:55.950Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="YgiFBzywYmgFVb2eJdwz" version="21.3.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-05-31T03:10:17.675Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="ZmXZyzFRQYKA47uXwCqo" version="21.3.4" type="github" pages="8">
   <diagram name="EUV" id="unsoDiKJAIrA_aXtJPjU">
     <mxGraphModel dx="1434" dy="764" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -731,7 +731,7 @@
           <mxGeometry x="901.75" y="1522" width="95.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GUWijDmqfXr9An-P0heg-6" value="&lt;ul&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;CR15489 - In manual mode, system status change from Warning to Alarm / Dona. Hwang&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=8;fontFamily=Helvetica;fontColor=#000000;labelPosition=center;verticalLabelPosition=middle;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1081" y="1549" width="247" height="52" as="geometry" />
+          <mxGeometry x="1081" y="1542" width="247" height="52" as="geometry" />
         </mxCell>
         <mxCell id="GUWijDmqfXr9An-P0heg-7" value="4.2.3" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#F28f3b;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=10;spacing=5;fontFamily=Verdana;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1184.5" y="1522" width="40" height="20" as="geometry" />
