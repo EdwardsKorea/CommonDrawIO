@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-13T07:05:01.999Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="kJA6K51gBONm6glNdprD" version="21.3.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-15T08:21:23.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Hwnne2xuo0obyFm2VRu8" version="21.3.8" type="github" pages="4">
   <diagram name="TeamStrategy" id="UG-Ofu5WpkIKn-2PXktu">
-    <mxGraphModel dx="2392" dy="2289" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3674" dy="2356" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -434,33 +434,6 @@
         </mxCell>
         <mxCell id="CW9I15_FvIqP1IgBjhKX-58" value="Replace AValue 15&quot;?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1929" y="1046" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CW9I15_FvIqP1IgBjhKX-59" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1390" y="1714" width="162" height="298" as="geometry" />
-        </mxCell>
-        <mxCell id="CW9I15_FvIqP1IgBjhKX-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CW9I15_FvIqP1IgBjhKX-60" target="CW9I15_FvIqP1IgBjhKX-63" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CW9I15_FvIqP1IgBjhKX-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="CW9I15_FvIqP1IgBjhKX-60" target="CW9I15_FvIqP1IgBjhKX-62" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CW9I15_FvIqP1IgBjhKX-60" value="Abingdon&amp;nbsp;&lt;br&gt;Ported Version" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1411" y="1783" width="120" height="86" as="geometry" />
-        </mxCell>
-        <mxCell id="CW9I15_FvIqP1IgBjhKX-61" value="Phase2&lt;br&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Port Completed/ End of June&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="1415" y="1729" width="106" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CW9I15_FvIqP1IgBjhKX-62" value=".Net Based HMI" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1411" y="1902" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="CW9I15_FvIqP1IgBjhKX-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="CW9I15_FvIqP1IgBjhKX-63" target="CW9I15_FvIqP1IgBjhKX-65" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CW9I15_FvIqP1IgBjhKX-63" value="Generate&lt;br&gt;MapFile" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1594" y="1796" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="CW9I15_FvIqP1IgBjhKX-65" value="Evaluate if it is working well on SDG&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1752" y="1796" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fokKV3cJws7LBpte0aFY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fokKV3cJws7LBpte0aFY-4" target="fokKV3cJws7LBpte0aFY-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1163,6 +1136,44 @@
             <mxPoint x="1603" y="1390.4137931034484" as="targetPoint" />
             <mxPoint x="1588" y="1430" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8BwuCwF4aRO6lMqJqNEb" name="Work Type">
+    <mxGraphModel dx="2074" dy="1156" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="QCxTkFd5omaXdWN7AMI3-1" value="Framework Work&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="480" width="850" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="QCxTkFd5omaXdWN7AMI3-2" value="EUV Project&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="140" width="150" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="QCxTkFd5omaXdWN7AMI3-4" value="ReGIS Project" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="140" width="150" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="QCxTkFd5omaXdWN7AMI3-5" value="Proteus&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="140" width="150" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="QCxTkFd5omaXdWN7AMI3-6" value="Halo Project" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="140" width="150" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="QCxTkFd5omaXdWN7AMI3-7" value="Other Projects&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="140" width="150" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="Ul7c_Tj4El8ffbIkqUcg-1" value="Functional Framework&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="500" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ul7c_Tj4El8ffbIkqUcg-2" value="Common Control Framework" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="580" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ul7c_Tj4El8ffbIkqUcg-3" value="Functional Framework&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1236" y="140" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ul7c_Tj4El8ffbIkqUcg-5" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelPosition=left;verticalLabelPosition=middle;" vertex="1" parent="1">
+          <mxGeometry x="1198" y="206" width="408" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
