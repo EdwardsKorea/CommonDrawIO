@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T07:29:18.220Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="yUMyoieIQAGlAbL0OAGQ" version="21.6.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-07-19T07:32:22.009Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="rJBYk_cVmWvjopgxSVny" version="21.6.3" type="github" pages="5">
   <diagram id="JAsVEXvXeCyUw9YGszkb" name="Venndiagram">
-    <mxGraphModel dx="4120" dy="1937" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2611" dy="1056" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,7 +68,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="PLC/HMI" id="mbD082O4aDs1qW4YhOnj">
-    <mxGraphModel dx="1524" dy="612" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="996" dy="581" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -350,7 +350,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KkkIr4eMumC8R5RvZW6O" name="SDG/UI">
-    <mxGraphModel dx="996" dy="581" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2375" dy="1360" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -573,19 +573,73 @@
           <mxGeometry x="64" y="18" width="375" height="30" as="geometry" />
         </mxCell>
         <mxCell id="947ighHfDD05t7_ZEmkw-31" value="SDG Software&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="494" y="1048" width="119" height="30" as="geometry" />
+          <mxGeometry x="493" y="1061" width="119" height="30" as="geometry" />
         </mxCell>
         <mxCell id="947ighHfDD05t7_ZEmkw-32" value="Web UI Software&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="456" y="240.5" width="216" height="30" as="geometry" />
         </mxCell>
         <mxCell id="be4fOY6zV378TvLOMu03-1" value="UI Automated Software&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="453" y="612" width="216" height="30" as="geometry" />
+          <mxGeometry x="456" y="633" width="216" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uwY8b48c78h-3Epp78-s-1" value="Javascript" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="98" y="393" width="75" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="uwY8b48c78h-3Epp78-s-2" value="HTML" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="98" y="447" width="75" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="uwY8b48c78h-3Epp78-s-3" value="CSS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="98" y="491" width="75" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="uwY8b48c78h-3Epp78-s-4" value="Knowledge of Web Application" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="439" width="98" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="uwY8b48c78h-3Epp78-s-5" value="TestCafe" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="435" width="93" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="uwY8b48c78h-3Epp78-s-6" value="Selectors" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="532" y="435" width="104.75" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="uwY8b48c78h-3Epp78-s-10" value="Creating a Test Scenario" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="696" y="435" width="104.75" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="uwY8b48c78h-3Epp78-s-11" value="Debugging" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="855" y="435" width="104.75" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="uwY8b48c78h-3Epp78-s-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="183" y="462" as="sourcePoint" />
+            <mxPoint x="220" y="462" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uwY8b48c78h-3Epp78-s-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="337" y="460" as="sourcePoint" />
+            <mxPoint x="374" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uwY8b48c78h-3Epp78-s-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="485" y="459.91" as="sourcePoint" />
+            <mxPoint x="522" y="459.91" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uwY8b48c78h-3Epp78-s-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="649" y="458.91" as="sourcePoint" />
+            <mxPoint x="686" y="458.91" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uwY8b48c78h-3Epp78-s-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="458.91" as="sourcePoint" />
+            <mxPoint x="847" y="458.91" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="oAQgiXPyeKjPaChJY5lk" name="Software Test Engineer">
-    <mxGraphModel dx="1207" dy="1684" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -792,7 +846,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SmA6EoZUiojxDKZ9KI5S" name="Test Soft Engineer">
-    <mxGraphModel dx="1423" dy="830" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1037" dy="588" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
