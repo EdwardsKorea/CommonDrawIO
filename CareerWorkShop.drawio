@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T07:33:08.516Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="AMVFcf6K2nYoOMlii8-N" version="21.6.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-07-19T07:33:30.999Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="a55JFxSETmbt8UZ-Gy4K" version="21.3.2" type="github" pages="5">
   <diagram id="JAsVEXvXeCyUw9YGszkb" name="Venndiagram">
-    <mxGraphModel dx="3909" dy="1204" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -113,39 +113,44 @@
     </mxGraphModel>
   </diagram>
   <diagram name="PLC/HMI" id="mbD082O4aDs1qW4YhOnj">
-    <mxGraphModel dx="1434" dy="764" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1000" dy="523" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-gtcrthmAF69Ne23EJEY-32" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pczFZz5B9ws-jRuNOwId-1" target="pczFZz5B9ws-jRuNOwId-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vUMeZWNOgmTMra4HiWWC-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pczFZz5B9ws-jRuNOwId-1" target="pczFZz5B9ws-jRuNOwId-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="pczFZz5B9ws-jRuNOwId-1" value="Basic PLC Engineering&lt;br style=&quot;font-size: 9px;&quot;&gt;(ST, Ladder, FB)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="38" y="310" width="107" height="40" as="geometry" />
+          <mxGeometry x="87.5" y="273" width="107" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-gtcrthmAF69Ne23EJEY-34" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pczFZz5B9ws-jRuNOwId-2" target="-gtcrthmAF69Ne23EJEY-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6lcA9zGiFFs81MH7TtRm-24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pczFZz5B9ws-jRuNOwId-2" target="6lcA9zGiFFs81MH7TtRm-23" edge="1">
+        <mxCell id="6lcA9zGiFFs81MH7TtRm-24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pczFZz5B9ws-jRuNOwId-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="320" y="377" />
+              <mxPoint x="320" y="347" />
+            </Array>
+            <mxPoint x="385" y="347" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjuJ6RXLyMdY7Y_o4DAN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pczFZz5B9ws-jRuNOwId-2" target="tjuJ6RXLyMdY7Y_o4DAN-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="403" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pczFZz5B9ws-jRuNOwId-2" value="Modular PLC Engieeing&amp;nbsp;&lt;br style=&quot;font-size: 8px;&quot;&gt;(OOP, Inferfaces, Modular)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="265" y="296" width="110" height="54" as="geometry" />
+          <mxGeometry x="265" y="266" width="110" height="54" as="geometry" />
         </mxCell>
         <mxCell id="-gtcrthmAF69Ne23EJEY-47" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pczFZz5B9ws-jRuNOwId-8" target="vUMeZWNOgmTMra4HiWWC-19" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="301" y="732" as="targetPoint" />
+            <mxPoint x="306" y="947" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pczFZz5B9ws-jRuNOwId-8" value="Basic CodeSys Visualization" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="74" y="716.5" width="105" height="31" as="geometry" />
+          <mxGeometry x="82" y="918" width="105" height="31" as="geometry" />
         </mxCell>
         <mxCell id="6lcA9zGiFFs81MH7TtRm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="pczFZz5B9ws-jRuNOwId-10" target="6lcA9zGiFFs81MH7TtRm-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -153,19 +158,18 @@
         <mxCell id="6lcA9zGiFFs81MH7TtRm-11" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="pczFZz5B9ws-jRuNOwId-10" target="6lcA9zGiFFs81MH7TtRm-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="214.38" y="554" />
-              <mxPoint x="214.38" y="580" />
+              <mxPoint x="220.37" y="698" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pczFZz5B9ws-jRuNOwId-10" value="Basic Comm. Protocol&amp;nbsp;&lt;br style=&quot;font-size: 10px;&quot;&gt;(Modbus RTU /TCP)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="82.63" y="522" width="116.75" height="42" as="geometry" />
+          <mxGeometry x="104" y="627" width="116.75" height="72" as="geometry" />
         </mxCell>
         <mxCell id="pczFZz5B9ws-jRuNOwId-19" value="PLC/HMI Software Engineer" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="26" y="18" width="375" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-gtcrthmAF69Ne23EJEY-33" value="Advanced PLC Engieeing&amp;nbsp;&lt;br style=&quot;font-size: 8px;&quot;&gt;(Design Patten, Archtecture design)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="495" y="310" width="110" height="58" as="geometry" />
+          <mxGeometry x="648" y="264" width="110" height="58" as="geometry" />
         </mxCell>
         <mxCell id="-gtcrthmAF69Ne23EJEY-37" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -216,19 +220,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-gtcrthmAF69Ne23EJEY-50" value="Basic Test Software&amp;nbsp;&lt;br&gt;(PICS , Python)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="150.5" y="1073" width="98.5" height="39" as="geometry" />
+          <mxGeometry x="51.25" y="1244" width="98.5" height="39" as="geometry" />
         </mxCell>
         <mxCell id="-gtcrthmAF69Ne23EJEY-58" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-gtcrthmAF69Ne23EJEY-52" target="-gtcrthmAF69Ne23EJEY-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-gtcrthmAF69Ne23EJEY-52" value="Basic skill of &lt;br&gt;svn , git" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="33.5" y="1266" width="92" height="31" as="geometry" />
+          <mxGeometry x="42" y="1436" width="92" height="31" as="geometry" />
         </mxCell>
         <mxCell id="6lcA9zGiFFs81MH7TtRm-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-gtcrthmAF69Ne23EJEY-53" target="6lcA9zGiFFs81MH7TtRm-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-gtcrthmAF69Ne23EJEY-53" value="Intermidiate &lt;br&gt;Test Software&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="406.5" y="1074" width="81" height="37" as="geometry" />
+          <mxGeometry x="415" y="1244" width="81" height="37" as="geometry" />
         </mxCell>
         <mxCell id="-gtcrthmAF69Ne23EJEY-67" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-gtcrthmAF69Ne23EJEY-56" target="-gtcrthmAF69Ne23EJEY-65" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -237,88 +241,99 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-gtcrthmAF69Ne23EJEY-56" value="Automation Test" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="274" y="1163" width="89" height="31" as="geometry" />
+          <mxGeometry x="270.5" y="1333" width="89" height="31" as="geometry" />
         </mxCell>
         <mxCell id="-gtcrthmAF69Ne23EJEY-61" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-gtcrthmAF69Ne23EJEY-57" target="-gtcrthmAF69Ne23EJEY-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-gtcrthmAF69Ne23EJEY-57" value="Advance Skill of svn, git" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="384.5" y="1266" width="92" height="31" as="geometry" />
+          <mxGeometry x="393" y="1436" width="92" height="31" as="geometry" />
         </mxCell>
         <mxCell id="-gtcrthmAF69Ne23EJEY-60" value="Adv Skill of DevOps (CD/CI)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="569" y="1256.5" width="92" height="50" as="geometry" />
+          <mxGeometry x="577.5" y="1426.5" width="92" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-gtcrthmAF69Ne23EJEY-70" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-gtcrthmAF69Ne23EJEY-64" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="637" y="1255" as="targetPoint" />
+            <mxPoint x="645.5" y="1425" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="645.5" y="1317" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-gtcrthmAF69Ne23EJEY-64" value="CodeSys Test Script" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="406" y="1132" width="89" height="31" as="geometry" />
+          <mxGeometry x="407" y="1302" width="89" height="31" as="geometry" />
         </mxCell>
         <mxCell id="-gtcrthmAF69Ne23EJEY-69" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-gtcrthmAF69Ne23EJEY-65" target="-gtcrthmAF69Ne23EJEY-60" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="585" y="1215" />
+              <mxPoint x="604.5" y="1385" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="-gtcrthmAF69Ne23EJEY-65" value="Python Test Script" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="402.75" y="1199" width="89" height="31" as="geometry" />
+          <mxGeometry x="411.25" y="1369" width="89" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="6lcA9zGiFFs81MH7TtRm-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="6lcA9zGiFFs81MH7TtRm-1" target="6lcA9zGiFFs81MH7TtRm-12" edge="1">
+        <mxCell id="tjuJ6RXLyMdY7Y_o4DAN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.179;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6lcA9zGiFFs81MH7TtRm-1" target="6lcA9zGiFFs81MH7TtRm-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6lcA9zGiFFs81MH7TtRm-1" value="Comm. Protocol&amp;nbsp;&lt;br style=&quot;font-size: 10px;&quot;&gt;(OPC UA, Gem/Sec, MQTT)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="308.38" y="480" width="135.62" height="42" as="geometry" />
+          <mxGeometry x="332.06" y="624" width="135.62" height="42" as="geometry" />
         </mxCell>
         <mxCell id="6lcA9zGiFFs81MH7TtRm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="6lcA9zGiFFs81MH7TtRm-3" target="6lcA9zGiFFs81MH7TtRm-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6lcA9zGiFFs81MH7TtRm-3" value="Project Management Tool (User)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="33.5" y="1416" width="117" height="42" as="geometry" />
+          <mxGeometry x="55" y="1744" width="117" height="42" as="geometry" />
         </mxCell>
         <mxCell id="6lcA9zGiFFs81MH7TtRm-7" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6lcA9zGiFFs81MH7TtRm-4" target="6lcA9zGiFFs81MH7TtRm-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="tjuJ6RXLyMdY7Y_o4DAN-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6lcA9zGiFFs81MH7TtRm-4" target="tjuJ6RXLyMdY7Y_o4DAN-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="469.5" y="1857" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6lcA9zGiFFs81MH7TtRm-4" value="Basic Project Management Skill" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="470.75" y="1416" width="117" height="42" as="geometry" />
+          <mxGeometry x="411" y="1744" width="117" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="tjuJ6RXLyMdY7Y_o4DAN-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6lcA9zGiFFs81MH7TtRm-6" target="tjuJ6RXLyMdY7Y_o4DAN-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6lcA9zGiFFs81MH7TtRm-6" value="Adv Project Management Skill" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="776.75" y="1416" width="117" height="42" as="geometry" />
+          <mxGeometry x="798.25" y="1744" width="117" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="6lcA9zGiFFs81MH7TtRm-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="6lcA9zGiFFs81MH7TtRm-10" target="6lcA9zGiFFs81MH7TtRm-12" edge="1">
+        <mxCell id="tjuJ6RXLyMdY7Y_o4DAN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.022;entryY=0.809;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6lcA9zGiFFs81MH7TtRm-10" target="6lcA9zGiFFs81MH7TtRm-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6lcA9zGiFFs81MH7TtRm-10" value="Industrial Comm. Protocol&amp;nbsp;&lt;br style=&quot;font-size: 10px;&quot;&gt;(EtherCAT, Fieldbus)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="253.38" y="556" width="117" height="48" as="geometry" />
+          <mxGeometry x="329.75" y="674" width="138.62" height="48" as="geometry" />
         </mxCell>
         <mxCell id="6lcA9zGiFFs81MH7TtRm-12" value="Web Protocol API&lt;br&gt;(Rest API, Markup)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="512.38" y="514" width="117" height="42" as="geometry" />
+          <mxGeometry x="604" y="630" width="117" height="84" as="geometry" />
         </mxCell>
         <mxCell id="6lcA9zGiFFs81MH7TtRm-19" value="Advacned Test Script(cli,shell,etc)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="638.5" y="1074" width="100.5" height="37" as="geometry" />
+          <mxGeometry x="647" y="1244" width="100.5" height="37" as="geometry" />
         </mxCell>
         <mxCell id="6lcA9zGiFFs81MH7TtRm-23" value="Unit Test&lt;br&gt;/ Regression Test" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="385" y="357" width="78" height="40" as="geometry" />
+          <mxGeometry x="384.5" y="326" width="78" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6lcA9zGiFFs81MH7TtRm-30" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6lcA9zGiFFs81MH7TtRm-27" target="6lcA9zGiFFs81MH7TtRm-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6lcA9zGiFFs81MH7TtRm-27" value="UML/SysML Modeling" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="385" y="419" width="78" height="40" as="geometry" />
+          <mxGeometry x="385" y="449" width="78" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6lcA9zGiFFs81MH7TtRm-28" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="pczFZz5B9ws-jRuNOwId-2" target="6lcA9zGiFFs81MH7TtRm-27" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="284" y="416" as="sourcePoint" />
             <mxPoint x="356" y="443" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="320" y="439" />
+              <mxPoint x="320" y="469" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6lcA9zGiFFs81MH7TtRm-29" value="MBSE" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="541" y="419" width="78" height="40" as="geometry" />
+          <mxGeometry x="664" y="449" width="78" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vUMeZWNOgmTMra4HiWWC-1" value="" style="endArrow=none;dashed=1;html=1;rounded=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -326,70 +341,77 @@
             <mxPoint x="1130" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vUMeZWNOgmTMra4HiWWC-2" value="" style="endArrow=none;dashed=1;html=1;rounded=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="10" y="636" as="sourcePoint" />
-            <mxPoint x="1120" y="636" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="vUMeZWNOgmTMra4HiWWC-3" value="" style="endArrow=none;dashed=1;html=1;rounded=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="11" y="1356" as="sourcePoint" />
-            <mxPoint x="1121" y="1356" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="vUMeZWNOgmTMra4HiWWC-4" value="PLC Engneering" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="240" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vUMeZWNOgmTMra4HiWWC-5" value="HMI Engineering" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="463" y="640" width="150" height="30" as="geometry" />
+          <mxGeometry x="478" y="847" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vUMeZWNOgmTMra4HiWWC-7" value="" style="endArrow=none;dashed=1;html=1;rounded=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="11" y="1023" as="sourcePoint" />
-            <mxPoint x="1121" y="1023" as="targetPoint" />
+            <mxPoint x="14" y="1163" as="sourcePoint" />
+            <mxPoint x="1124" y="1163" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vUMeZWNOgmTMra4HiWWC-8" value="Test / DevOps Engineering" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="464" y="1023" width="150" height="30" as="geometry" />
+          <mxGeometry x="467" y="1163" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vUMeZWNOgmTMra4HiWWC-9" value="Project Management Engineering" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="464" y="1363" width="207" height="30" as="geometry" />
+          <mxGeometry x="392.5" y="1679" width="207" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vUMeZWNOgmTMra4HiWWC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vUMeZWNOgmTMra4HiWWC-14" target="vUMeZWNOgmTMra4HiWWC-15" edge="1">
+        <mxCell id="tjuJ6RXLyMdY7Y_o4DAN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vUMeZWNOgmTMra4HiWWC-14" target="jv0sRoJBJ7UMO08d6jO7-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vUMeZWNOgmTMra4HiWWC-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="vUMeZWNOgmTMra4HiWWC-14" target="vUMeZWNOgmTMra4HiWWC-16" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="295" y="839" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="vUMeZWNOgmTMra4HiWWC-14" value="Windows Application&lt;br style=&quot;font-size: 9px;&quot;&gt;(.Net, Winform, WPF)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="330.5" y="990" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vUMeZWNOgmTMra4HiWWC-14" value="Basic Windows Application&lt;br style=&quot;font-size: 9px;&quot;&gt;(.Net, Winform, WPF)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="244" y="855" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="vUMeZWNOgmTMra4HiWWC-15" value="Advanced Windows Application&lt;br style=&quot;font-size: 9px;&quot;&gt;(Service, MVVM, RestAPI)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="474" y="855" width="120" height="40" as="geometry" />
+        <mxCell id="vUMeZWNOgmTMra4HiWWC-15" value="Web Application&lt;br style=&quot;font-size: 9px;&quot;&gt;(MVVM, RestAPI)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
+          <mxGeometry x="321.5" y="1104" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vUMeZWNOgmTMra4HiWWC-16" value="Basic DB&amp;nbsp;&lt;br&gt;SQL Lite" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="264" y="793" width="70" height="40" as="geometry" />
+          <mxGeometry x="490.5" y="1104" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vUMeZWNOgmTMra4HiWWC-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="481" y="813" as="sourcePoint" />
-            <mxPoint x="481" y="813" as="targetPoint" />
+            <mxPoint x="484" y="953" as="sourcePoint" />
+            <mxPoint x="484" y="953" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vUMeZWNOgmTMra4HiWWC-19" value="Advanced Visualization/HMI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="326" y="716.5" width="105" height="31" as="geometry" />
+          <mxGeometry x="331" y="918" width="105" height="31" as="geometry" />
         </mxCell>
         <mxCell id="7qebmBpE965AiDFIb1bB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="7qebmBpE965AiDFIb1bB-2" target="vUMeZWNOgmTMra4HiWWC-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7qebmBpE965AiDFIb1bB-2" value="Commercial HMI/SCADA (Proface,Zeonm, M2I)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="74" y="758" width="105" height="43" as="geometry" />
+        <mxCell id="7qebmBpE965AiDFIb1bB-2" value="Commercial HMI/SCADA (Proface,Zenon, M2I)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="79" y="973" width="105" height="43" as="geometry" />
         </mxCell>
         <mxCell id="jv0sRoJBJ7UMO08d6jO7-1" value="Installer &lt;br&gt;WIX&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" parent="1" vertex="1">
-          <mxGeometry x="242" y="923" width="110" height="40" as="geometry" />
+          <mxGeometry x="614" y="990" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tjuJ6RXLyMdY7Y_o4DAN-1" value="PLC Hardware and Configuration Knowledge" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="386" y="383" width="117" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tjuJ6RXLyMdY7Y_o4DAN-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="tjuJ6RXLyMdY7Y_o4DAN-5" target="jv0sRoJBJ7UMO08d6jO7-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tjuJ6RXLyMdY7Y_o4DAN-5" value="Windows Service or Library&lt;br&gt;(Modbus Switch Gateway)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="325.5" y="1050" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tjuJ6RXLyMdY7Y_o4DAN-12" value="" style="endArrow=none;dashed=1;html=1;rounded=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="25" y="512" as="sourcePoint" />
+            <mxPoint x="1135" y="512" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tjuJ6RXLyMdY7Y_o4DAN-13" value="Interface" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="466" y="524" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tjuJ6RXLyMdY7Y_o4DAN-17" value="Requirements Analysis and Documentation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="411.5" y="1838" width="117" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="tjuJ6RXLyMdY7Y_o4DAN-19" value="Project Management Methodologies (e.g., Agile, Waterfall)" style="whiteSpace=wrap;html=1;fontSize=10;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="796.75" y="1833" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -630,7 +652,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="oAQgiXPyeKjPaChJY5lk" name="Software Test Engineer">
-    <mxGraphModel dx="1434" dy="1964" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1037" dy="1788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -768,7 +790,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SmA6EoZUiojxDKZ9KI5S" name="Test Soft Engineer">
-    <mxGraphModel dx="1687" dy="899" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1037" dy="588" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
