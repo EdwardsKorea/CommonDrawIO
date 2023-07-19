@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-07-19T07:32:22.009Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="rJBYk_cVmWvjopgxSVny" version="21.6.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-07-19T07:33:08.516Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="AMVFcf6K2nYoOMlii8-N" version="21.6.3" type="github" pages="5">
   <diagram id="JAsVEXvXeCyUw9YGszkb" name="Venndiagram">
-    <mxGraphModel dx="2611" dy="1056" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3909" dy="1204" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Y1OyC9jrGxGCxemS3HSf-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;opacity=50;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="771" y="396" width="980" height="980" as="geometry" />
+          <mxGeometry x="713" y="297" width="1209" height="1209" as="geometry" />
         </mxCell>
         <mxCell id="Y1OyC9jrGxGCxemS3HSf-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;opacity=50;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="110" y="70" width="980" height="980" as="geometry" />
+          <mxGeometry x="-24.5" y="-172" width="1227" height="1227" as="geometry" />
         </mxCell>
         <mxCell id="Y1OyC9jrGxGCxemS3HSf-3" value="Software Engineer&lt;br&gt;(PLC/HMI/System)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="502" y="443" width="190" height="30" as="geometry" />
@@ -16,23 +16,23 @@
         <mxCell id="Y1OyC9jrGxGCxemS3HSf-4" value="&lt;b&gt;PLC&amp;nbsp;&lt;br&gt;&lt;/b&gt;Straton, CodeSys" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="522" y="297" width="117" height="117" as="geometry" />
         </mxCell>
-        <mxCell id="Y1OyC9jrGxGCxemS3HSf-5" value="&lt;b&gt;HMI&lt;/b&gt;&lt;br&gt;Winform, WPF" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="Y1OyC9jrGxGCxemS3HSf-5" value="&lt;b&gt;HMI&lt;/b&gt;&lt;br&gt;.NET Framework(Winform, WPF)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="874" y="633" width="108" height="108" as="geometry" />
         </mxCell>
-        <mxCell id="Y1OyC9jrGxGCxemS3HSf-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;opacity=50;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="42" y="703" width="1048" height="1048" as="geometry" />
+        <mxCell id="Y1OyC9jrGxGCxemS3HSf-6" value="v" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;opacity=50;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="-117" y="656" width="1352" height="1352" as="geometry" />
         </mxCell>
         <mxCell id="Y1OyC9jrGxGCxemS3HSf-7" value="Software Test Engineer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="494" y="1239" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y1OyC9jrGxGCxemS3HSf-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;opacity=50;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-640" y="365" width="1048" height="1048" as="geometry" />
+          <mxGeometry x="-847" y="238" width="1246" height="1246" as="geometry" />
         </mxCell>
         <mxCell id="Y1OyC9jrGxGCxemS3HSf-9" value="Software Engineer&lt;br&gt;WebUI, SDG Config , UI Test" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1198" y="498" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y1OyC9jrGxGCxemS3HSf-10" value="&lt;b&gt;Simulator&amp;nbsp;&lt;br&gt;PICS Python&lt;br&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="299" y="806" width="100" height="100" as="geometry" />
+          <mxGeometry x="260" y="868" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Y1OyC9jrGxGCxemS3HSf-11" value="Test Software Engineer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=19;" parent="1" vertex="1">
           <mxGeometry x="-334" y="861" width="190" height="30" as="geometry" />
@@ -41,10 +41,10 @@
           <mxGeometry x="201" y="1013" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Y1OyC9jrGxGCxemS3HSf-13" value="&lt;b&gt;Edwards Product&amp;nbsp;&lt;br&gt;EUV, ReGIS, Proteus&lt;br&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="458" y="737" width="100" height="100" as="geometry" />
+          <mxGeometry x="422" y="685" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Y1OyC9jrGxGCxemS3HSf-14" value="&lt;b&gt;PCP&amp;nbsp;&lt;br&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="433" y="861" width="93" height="93" as="geometry" />
+          <mxGeometry x="416.5" y="814.5" width="93" height="93" as="geometry" />
         </mxCell>
         <mxCell id="Y1OyC9jrGxGCxemS3HSf-15" value="&lt;b&gt;Comm Protocol&lt;br&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="587" y="823" width="100" height="100" as="geometry" />
@@ -53,22 +53,67 @@
           <mxGeometry x="-91" y="791" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Y1OyC9jrGxGCxemS3HSf-17" value="&lt;b&gt;Jira, &lt;br&gt;Axosoft&lt;br&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="526" y="941" width="100" height="100" as="geometry" />
+          <mxGeometry x="413" y="940" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Y1OyC9jrGxGCxemS3HSf-18" value="&lt;b&gt;Perform Test&amp;nbsp;&lt;br&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="426" y="1080" width="100" height="100" as="geometry" />
+          <mxGeometry x="394" y="1082" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Y1OyC9jrGxGCxemS3HSf-19" value="&lt;b&gt;Test Management System&lt;br&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="599" y="1076" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Y1OyC9jrGxGCxemS3HSf-20" value="&lt;b&gt;CD/CI&lt;br&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="195" y="631" width="100" height="100" as="geometry" />
+          <mxGeometry x="126" y="536" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mV8htEf8RmMbbBuftl9X-1" value="&lt;b&gt;Elec Diagram&amp;nbsp; &amp;amp; P&amp;amp;ID Analysis&amp;nbsp;&lt;br&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="518" y="733" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mV8htEf8RmMbbBuftl9X-2" value="&lt;b&gt;Test Automation Tool&lt;br&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="144" y="781" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mV8htEf8RmMbbBuftl9X-3" value="&lt;b&gt;Service Development&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1011" y="516" width="105" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="mV8htEf8RmMbbBuftl9X-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;opacity=50;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="-439" y="3141" width="2500" height="2500" as="geometry" />
+        </mxCell>
+        <mxCell id="mV8htEf8RmMbbBuftl9X-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;opacity=50;fillColor=#dae8fc;strokeColor=#6c8ebf;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="-1262" y="2772" width="2500" height="2500" as="geometry" />
+        </mxCell>
+        <mxCell id="mV8htEf8RmMbbBuftl9X-12" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;opacity=50;fillColor=#d5e8d4;strokeColor=#82b366;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="-1329" y="4440" width="2500" height="2500" as="geometry" />
+        </mxCell>
+        <mxCell id="mV8htEf8RmMbbBuftl9X-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;opacity=50;fillColor=#fff2cc;strokeColor=#d6b656;perimeterSpacing=0;" vertex="1" parent="1">
+          <mxGeometry x="-2172" y="3168" width="2500" height="2500" as="geometry" />
+        </mxCell>
+        <mxCell id="mV8htEf8RmMbbBuftl9X-14" value="&lt;b&gt;PLC Unit Test&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="33" y="408" width="117" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="mV8htEf8RmMbbBuftl9X-15" value="&lt;b&gt;PLC Regression Test&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="274.5" y="711" width="98" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="mV8htEf8RmMbbBuftl9X-16" value="&lt;b&gt;Database&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="721" y="419" width="117" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="mV8htEf8RmMbbBuftl9X-17" value="&lt;b&gt;Version Control(SVN, Git)&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="522" y="523" width="117" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="mV8htEf8RmMbbBuftl9X-18" value="&lt;b&gt;Test Mangement Tool (X-ray, Jira)&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="218" y="766" width="117" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="mV8htEf8RmMbbBuftl9X-19" value="&lt;b&gt;CI/CD Integration/Tool&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="626" y="667" width="101" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="mV8htEf8RmMbbBuftl9X-20" value="&lt;b&gt;Requirement Analysis(Clarification)&lt;br&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="559" y="943" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mV8htEf8RmMbbBuftl9X-21" value="&lt;b&gt;Instrumentation&lt;br&gt;(etc sensor,..)&lt;br&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="301" y="800" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="PLC/HMI" id="mbD082O4aDs1qW4YhOnj">
-    <mxGraphModel dx="996" dy="581" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="764" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -350,7 +395,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KkkIr4eMumC8R5RvZW6O" name="SDG/UI">
-    <mxGraphModel dx="2375" dy="1360" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1037" dy="588" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -573,73 +618,19 @@
           <mxGeometry x="64" y="18" width="375" height="30" as="geometry" />
         </mxCell>
         <mxCell id="947ighHfDD05t7_ZEmkw-31" value="SDG Software&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="493" y="1061" width="119" height="30" as="geometry" />
+          <mxGeometry x="494" y="1048" width="119" height="30" as="geometry" />
         </mxCell>
         <mxCell id="947ighHfDD05t7_ZEmkw-32" value="Web UI Software&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="456" y="240.5" width="216" height="30" as="geometry" />
         </mxCell>
         <mxCell id="be4fOY6zV378TvLOMu03-1" value="UI Automated Software&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="456" y="633" width="216" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="uwY8b48c78h-3Epp78-s-1" value="Javascript" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="98" y="393" width="75" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="uwY8b48c78h-3Epp78-s-2" value="HTML" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="98" y="447" width="75" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="uwY8b48c78h-3Epp78-s-3" value="CSS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="98" y="491" width="75" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="uwY8b48c78h-3Epp78-s-4" value="Knowledge of Web Application" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="225" y="439" width="98" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="uwY8b48c78h-3Epp78-s-5" value="TestCafe" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="435" width="93" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="uwY8b48c78h-3Epp78-s-6" value="Selectors" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="532" y="435" width="104.75" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="uwY8b48c78h-3Epp78-s-10" value="Creating a Test Scenario" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="696" y="435" width="104.75" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="uwY8b48c78h-3Epp78-s-11" value="Debugging" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="855" y="435" width="104.75" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="uwY8b48c78h-3Epp78-s-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="183" y="462" as="sourcePoint" />
-            <mxPoint x="220" y="462" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uwY8b48c78h-3Epp78-s-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="337" y="460" as="sourcePoint" />
-            <mxPoint x="374" y="460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uwY8b48c78h-3Epp78-s-20" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="485" y="459.91" as="sourcePoint" />
-            <mxPoint x="522" y="459.91" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uwY8b48c78h-3Epp78-s-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="649" y="458.91" as="sourcePoint" />
-            <mxPoint x="686" y="458.91" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uwY8b48c78h-3Epp78-s-23" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="810" y="458.91" as="sourcePoint" />
-            <mxPoint x="847" y="458.91" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="453" y="612" width="216" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="oAQgiXPyeKjPaChJY5lk" name="Software Test Engineer">
-    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1964" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -689,19 +680,19 @@
           <mxGeometry x="176.5" y="-731" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fRKAf5IWa3qFcoa8L3zy-1" value="Wirite Simple &lt;br&gt;Test Cases" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="21" y="-163" width="105" height="31" as="geometry" />
+          <mxGeometry x="70.75" y="-172" width="105" height="31" as="geometry" />
         </mxCell>
         <mxCell id="wvU9la7GozZIkgXFA0ZA-1" value="Perform Test&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="21" y="-127" width="105" height="31" as="geometry" />
+          <mxGeometry x="70.75" y="-136" width="105" height="31" as="geometry" />
         </mxCell>
         <mxCell id="wvU9la7GozZIkgXFA0ZA-3" value="Write Test Result and Report&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="21" y="-88" width="105" height="31" as="geometry" />
+          <mxGeometry x="70.75" y="-97" width="105" height="31" as="geometry" />
         </mxCell>
         <mxCell id="wvU9la7GozZIkgXFA0ZA-4" value="Requirment Analisys&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="21" y="-45" width="105" height="31" as="geometry" />
+          <mxGeometry x="207.25" y="-141" width="105" height="31" as="geometry" />
         </mxCell>
         <mxCell id="wvU9la7GozZIkgXFA0ZA-5" value="Design TestCases&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="346" y="-82.5" width="107" height="31" as="geometry" />
+          <mxGeometry x="207.25" y="-100" width="105" height="31" as="geometry" />
         </mxCell>
         <mxCell id="fWAbyFV2lCJ_htYoot1c-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fWAbyFV2lCJ_htYoot1c-1" target="fWAbyFV2lCJ_htYoot1c-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -710,41 +701,30 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fWAbyFV2lCJ_htYoot1c-1" value="Python Test Software&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="62" y="-372" width="105" height="31" as="geometry" />
+          <mxGeometry x="106.5" y="-301" width="105" height="31" as="geometry" />
         </mxCell>
         <mxCell id="fWAbyFV2lCJ_htYoot1c-3" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fWAbyFV2lCJ_htYoot1c-2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="225" y="-482" as="targetPoint" />
+            <mxPoint x="272.5" y="-399" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fWAbyFV2lCJ_htYoot1c-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fWAbyFV2lCJ_htYoot1c-2" target="fWAbyFV2lCJ_htYoot1c-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fWAbyFV2lCJ_htYoot1c-2" value="Codesys Test Manager" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="68" y="-484" width="105" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="Nd_azlmHKjxVDiTrJNCA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="fWAbyFV2lCJ_htYoot1c-4" target="lEbm2tuJ7sWhMfI3Nxly-33">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="106.5" y="-398" width="105" height="31" as="geometry" />
         </mxCell>
         <mxCell id="fWAbyFV2lCJ_htYoot1c-4" value="UnitTest" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="225" y="-499" width="105" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="Nd_azlmHKjxVDiTrJNCA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fWAbyFV2lCJ_htYoot1c-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="463.6666564941406" y="-445.6666666666665" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="272.5" y="-416" width="105" height="31" as="geometry" />
         </mxCell>
         <mxCell id="fWAbyFV2lCJ_htYoot1c-5" value="Regrestion Test" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="225" y="-461" width="105" height="31" as="geometry" />
+          <mxGeometry x="272.5" y="-378" width="105" height="31" as="geometry" />
         </mxCell>
         <mxCell id="fWAbyFV2lCJ_htYoot1c-7" value="Create Simulator Software&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="225" y="-408" width="105" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="Nd_azlmHKjxVDiTrJNCA-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fWAbyFV2lCJ_htYoot1c-8" target="lEbm2tuJ7sWhMfI3Nxly-33">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="272.5" y="-327" width="105" height="31" as="geometry" />
         </mxCell>
         <mxCell id="fWAbyFV2lCJ_htYoot1c-8" value="Automated Test Script" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="225" y="-341" width="105" height="31" as="geometry" />
+          <mxGeometry x="272.5" y="-285" width="105" height="31" as="geometry" />
         </mxCell>
         <mxCell id="PGBQKrPLfpt7XmwZRwZG-1" value="Software Test Engineer" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontStyle=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="51.5" y="-815" width="375" height="30" as="geometry" />
@@ -761,7 +741,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eaTGYZETqrwrgkNPSVxM-1" value="Requirment Analisys&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" parent="1" vertex="1">
-          <mxGeometry x="346" y="-166" width="105" height="31" as="geometry" />
+          <mxGeometry x="207.25" y="-183" width="105" height="31" as="geometry" />
         </mxCell>
         <mxCell id="eaTGYZETqrwrgkNPSVxM-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -784,69 +764,11 @@
         <mxCell id="0RiKlq7YP-9da8KyrsfT-1" value="Technologist" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1104" y="-771" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ixUb1RJkKvjmJOz3sRd1-1" value="테스트 도구 사용" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="346" y="-124" width="105" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="ixUb1RJkKvjmJOz3sRd1-2" value="멘토링" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="703" y="-163" width="105" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="ixUb1RJkKvjmJOz3sRd1-3" value="결함 분석 및 보고" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="346" y="-41" width="105" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="ixUb1RJkKvjmJOz3sRd1-4" value="테스트 프로세스 관리" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1001" y="-163" width="105" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="lEbm2tuJ7sWhMfI3Nxly-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="r4OaKOZqH2y613HPsUVG-1" target="lEbm2tuJ7sWhMfI3Nxly-28">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="347" y="-294.5" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lEbm2tuJ7sWhMfI3Nxly-24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fWAbyFV2lCJ_htYoot1c-7" target="lEbm2tuJ7sWhMfI3Nxly-33">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="584.5000000000002" y="-397.5" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lEbm2tuJ7sWhMfI3Nxly-27" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lEbm2tuJ7sWhMfI3Nxly-28" target="lEbm2tuJ7sWhMfI3Nxly-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lEbm2tuJ7sWhMfI3Nxly-28" value="Advance Skill of svn, git" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="384" y="-279" width="92" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="lEbm2tuJ7sWhMfI3Nxly-29" value="Adv Skill of DevOps (CD/CI)&amp;nbsp;&lt;br&gt;&amp;amp;&lt;br&gt;Advacned Test Script(cli,shell,etc)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="998" y="-472" width="92" height="105" as="geometry" />
-        </mxCell>
-        <mxCell id="Nd_azlmHKjxVDiTrJNCA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lEbm2tuJ7sWhMfI3Nxly-33" target="lEbm2tuJ7sWhMfI3Nxly-29">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="lEbm2tuJ7sWhMfI3Nxly-33" value="Test script&lt;br&gt;(python, codesys,etc)&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="592" y="-418" width="89" height="51" as="geometry" />
-        </mxCell>
-        <mxCell id="lEbm2tuJ7sWhMfI3Nxly-36" value="기획서 분석 및 테스트 전략 수립" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="703" y="-124" width="105" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="lEbm2tuJ7sWhMfI3Nxly-37" value="테스트 케이스 리뷰" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="703" y="-85" width="105" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="lEbm2tuJ7sWhMfI3Nxly-38" value="이슈 분석 및 처리" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="326" y="56" width="105" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="lEbm2tuJ7sWhMfI3Nxly-39" value="테스트 환경 준비" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="703" y="-42" width="105" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="lEbm2tuJ7sWhMfI3Nxly-40" value="위험성 평가" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1001" y="-124" width="105" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="lEbm2tuJ7sWhMfI3Nxly-41" value="SQA PROCESS 소개 및 배포" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="1001" y="-85" width="105" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="r4OaKOZqH2y613HPsUVG-1" value="Basic skill of &lt;br&gt;svn , git" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="62" y="-279" width="105" height="29" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="SmA6EoZUiojxDKZ9KI5S" name="Test Soft Engineer">
-    <mxGraphModel dx="1037" dy="588" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="899" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
