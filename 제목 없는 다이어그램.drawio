@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T07:52:52.636Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="Hw_NlVky_lQEEcT82jWJ" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-17T07:55:34.029Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="_fj-8S2Kz1VqFj24eXCm" version="21.6.8" type="github">
   <diagram name="페이지-1" id="scTs8rndlXiAAdvTCo-n">
     <mxGraphModel dx="1392" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -98,6 +98,12 @@
         </mxCell>
         <mxCell id="Gr3zVidgoqD8lnO1tUQA-45" value="Resource&lt;br&gt;Sheet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="440" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Gr3zVidgoqD8lnO1tUQA-50" value="Sheet가 너무 많음" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="640" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Gr3zVidgoqD8lnO1tUQA-51" value="고민중&lt;br&gt;Sheet가 적을것 같음.&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="640" width="240" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
