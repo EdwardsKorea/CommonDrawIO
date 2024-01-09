@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-09T22:44:39.509Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="eDavKFufaO9yuWFJH6aJ" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-09T23:16:13.539Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="HGvSn6geb61HYcKLCehp" version="22.1.17" type="github">
   <diagram name="페이지-1" id="L5aXXikFhnziVQd-68zD">
-    <mxGraphModel dx="1688" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="965" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -474,6 +474,9 @@
         </mxCell>
         <mxCell id="6VhVImZv-FKxycr0r0Lj-20" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
           <mxGeometry x="279.6" y="820" width="60" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="6VhVImZv-FKxycr0r0Lj-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279.6" y="370" width="120" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
