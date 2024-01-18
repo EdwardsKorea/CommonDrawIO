@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T23:50:30.767Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="Nfi849nyHGFrq0Er1Q_S" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-18T23:57:30.999Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="h8DnrwnMc3KvOO5s7Bfj" version="22.1.21" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2515" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
             <mxPoint x="-19" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lrJF7BD7MlawXil0EtXN-4" value="Abatement Project를 사용하여 PLC Booting이 되나요?" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="lrJF7BD7MlawXil0EtXN-4" value="&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;Abatement Project&lt;/font&gt;&lt;/b&gt;를 사용하여 PLC Booting이 되나요?" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="150" y="340" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lrJF7BD7MlawXil0EtXN-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
@@ -60,6 +60,9 @@
             <mxPoint x="-18" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="SJBE8RgiYm7MNXT5QFxj-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lrJF7BD7MlawXil0EtXN-76" target="lrJF7BD7MlawXil0EtXN-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lrJF7BD7MlawXil0EtXN-76" value="PLC(192.168.2.200)에 접속이 가능한가요?" style="shape=tape;whiteSpace=wrap;html=1;size=0.2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="150" y="470" width="180" height="80" as="geometry" />
         </mxCell>
@@ -74,7 +77,7 @@
             <mxPoint x="-18" y="13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lrJF7BD7MlawXil0EtXN-80" value="Basic Porject를 사용하여&amp;nbsp; Ethernet 통신(Ping)이&lt;br&gt;가능한가요?" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;labelPosition=center;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="lrJF7BD7MlawXil0EtXN-80" value="&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;Basic Porject&lt;/font&gt;&lt;/b&gt;를 사용하여&amp;nbsp; Ethernet 통신(Ping)이&lt;br&gt;가능한가요?" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=card;whiteSpace=wrap;size=20;arcSize=12;labelPosition=center;align=center;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="150" y="60" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SJBE8RgiYm7MNXT5QFxj-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SJBE8RgiYm7MNXT5QFxj-9" target="lrJF7BD7MlawXil0EtXN-4">
@@ -85,21 +88,35 @@
             <mxPoint x="-23" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="SJBE8RgiYm7MNXT5QFxj-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="230" as="sourcePoint" />
+            <mxPoint x="480" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="231" />
+              <mxPoint x="480" y="231" />
+              <mxPoint x="480" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SJBE8RgiYm7MNXT5QFxj-9" value="&amp;nbsp;Flash Memory가 문제가 있는지 확인하였나요? (CCODE=-1)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="200" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SJBE8RgiYm7MNXT5QFxj-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.289;entryY=1.047;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="SJBE8RgiYm7MNXT5QFxj-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.284;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SJBE8RgiYm7MNXT5QFxj-23" target="lrJF7BD7MlawXil0EtXN-0">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="227.18" as="sourcePoint" />
-            <mxPoint x="482.02" y="120" as="targetPoint" />
+            <mxPoint x="-40" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-40" y="20" />
+              <mxPoint x="481" y="20" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SJBE8RgiYm7MNXT5QFxj-18" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SJBE8RgiYm7MNXT5QFxj-11">
-          <mxGeometry x="-0.1475" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="SJBE8RgiYm7MNXT5QFxj-32" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SJBE8RgiYm7MNXT5QFxj-31">
+          <mxGeometry x="-0.6767" y="3" relative="1" as="geometry">
+            <mxPoint x="23" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SJBE8RgiYm7MNXT5QFxj-23" value="Flash Memory Project로 복구를 진행하여 복구 완료 되었습니까?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="SJBE8RgiYm7MNXT5QFxj-23" value="&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;Flash Memory Project&lt;/font&gt;&lt;/b&gt;로 복구를 진행하여 복구 완료 되었습니까?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-130" y="340" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SJBE8RgiYm7MNXT5QFxj-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SJBE8RgiYm7MNXT5QFxj-23" target="lrJF7BD7MlawXil0EtXN-76">
@@ -114,8 +131,11 @@
             <mxPoint x="19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SJBE8RgiYm7MNXT5QFxj-27" value="복구" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="SJBE8RgiYm7MNXT5QFxj-27" value="복구 완료" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="760" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SJBE8RgiYm7MNXT5QFxj-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.716;entryY=1.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lrJF7BD7MlawXil0EtXN-79" target="lrJF7BD7MlawXil0EtXN-0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
