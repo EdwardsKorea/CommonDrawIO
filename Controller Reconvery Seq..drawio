@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-19T00:09:37.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="edBFBhhes_Jn_v4NgkJk" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-19T00:18:01.125Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="7vBTdYzSnOzw12YhxA7S" version="22.1.21" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2515" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -109,7 +109,7 @@
             <mxPoint x="-19" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SJBE8RgiYm7MNXT5QFxj-9" value="&amp;nbsp;Flash Memory 정상 확인했나요?(CCODE = 0) 정상&lt;br&gt;(CCODE = -1) 비정상" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="SJBE8RgiYm7MNXT5QFxj-9" value="&amp;nbsp;Flash Memory가 정상인가요?(CCODE = 0) 정상&lt;br&gt;(CCODE = -1) 비정상" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="200" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SJBE8RgiYm7MNXT5QFxj-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.284;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SJBE8RgiYm7MNXT5QFxj-23" target="lrJF7BD7MlawXil0EtXN-0">
