@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T23:57:30.999Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="h8DnrwnMc3KvOO5s7Bfj" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-19T00:09:37.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="edBFBhhes_Jn_v4NgkJk" version="22.1.21" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2515" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,7 +63,12 @@
         <mxCell id="SJBE8RgiYm7MNXT5QFxj-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lrJF7BD7MlawXil0EtXN-76" target="lrJF7BD7MlawXil0EtXN-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lrJF7BD7MlawXil0EtXN-76" value="PLC(192.168.2.200)에 접속이 가능한가요?" style="shape=tape;whiteSpace=wrap;html=1;size=0.2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="SJBE8RgiYm7MNXT5QFxj-39" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SJBE8RgiYm7MNXT5QFxj-33">
+          <mxGeometry x="-0.6876" relative="1" as="geometry">
+            <mxPoint x="-20" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lrJF7BD7MlawXil0EtXN-76" value="PLC(192.168.2.200)에&lt;br&gt;접속이 가능한가요?" style="shape=tape;whiteSpace=wrap;html=1;size=0.2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="150" y="470" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lrJF7BD7MlawXil0EtXN-79" value="Config와 t5가 Import되어&lt;br&gt;있는지 확인되나요?" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -83,9 +88,9 @@
         <mxCell id="SJBE8RgiYm7MNXT5QFxj-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SJBE8RgiYm7MNXT5QFxj-9" target="lrJF7BD7MlawXil0EtXN-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SJBE8RgiYm7MNXT5QFxj-19" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SJBE8RgiYm7MNXT5QFxj-16">
-          <mxGeometry x="0.2653" y="3" relative="1" as="geometry">
-            <mxPoint x="-23" y="-11" as="offset" />
+        <mxCell id="SJBE8RgiYm7MNXT5QFxj-38" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SJBE8RgiYm7MNXT5QFxj-16">
+          <mxGeometry x="0.0083" relative="1" as="geometry">
+            <mxPoint x="-20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SJBE8RgiYm7MNXT5QFxj-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -99,7 +104,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SJBE8RgiYm7MNXT5QFxj-9" value="&amp;nbsp;Flash Memory가 문제가 있는지 확인하였나요? (CCODE=-1)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="SJBE8RgiYm7MNXT5QFxj-36" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SJBE8RgiYm7MNXT5QFxj-35">
+          <mxGeometry x="-0.3117" y="3" relative="1" as="geometry">
+            <mxPoint x="-19" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SJBE8RgiYm7MNXT5QFxj-9" value="&amp;nbsp;Flash Memory 정상 확인했나요?(CCODE = 0) 정상&lt;br&gt;(CCODE = -1) 비정상" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="200" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SJBE8RgiYm7MNXT5QFxj-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.284;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SJBE8RgiYm7MNXT5QFxj-23" target="lrJF7BD7MlawXil0EtXN-0">
@@ -136,6 +146,11 @@
         </mxCell>
         <mxCell id="SJBE8RgiYm7MNXT5QFxj-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.716;entryY=1.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="lrJF7BD7MlawXil0EtXN-79" target="lrJF7BD7MlawXil0EtXN-0">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SJBE8RgiYm7MNXT5QFxj-40" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SJBE8RgiYm7MNXT5QFxj-34">
+          <mxGeometry x="-0.7519" relative="1" as="geometry">
+            <mxPoint x="-15" y="-10" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
