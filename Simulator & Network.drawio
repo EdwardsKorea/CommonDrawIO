@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-18T00:48:26.358Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="afATW9o2q1M6sArSSiyw" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-18T04:20:59.008Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="UaTBPMJHUsZbkdMpgOS9" version="24.5.2" type="github">
   <diagram name="페이지-1" id="L5aXXikFhnziVQd-68zD">
-    <mxGraphModel dx="2757" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2675" dy="1012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1596,6 +1596,9 @@
         </mxCell>
         <mxCell id="92urhBUUHC3dQ3VCTNAt-305" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="1670" width="60.4" height="30.28" as="geometry" />
+        </mxCell>
+        <mxCell id="92urhBUUHC3dQ3VCTNAt-306" value="1. Open 형 선택&lt;div&gt;2. 파티션 or 서랍장으로 막을지&lt;/div&gt;&lt;div&gt;3. 소화전 공간 활용 여부&lt;/div&gt;&lt;div&gt;4. axentis 분해 여부&lt;/div&gt;&lt;div&gt;5. Daise / ReGIS 책상에 올릴지?&lt;/div&gt;&lt;div&gt;6. 책상을 어느정도 놓을지?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="290" width="320" height="640" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
