@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2024-07-21T23:32:08.941Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="uZgsqTc9-isynnb-kDc8" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-22T03:02:28.119Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="zX428VxNuYE6aSBAiDvV" version="24.7.1" type="github">
   <diagram name="페이지-1" id="FAaYgKpdYc6u2w8gaOa1">
-    <mxGraphModel dx="1688" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2026" dy="1119" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kDgu9Qi8O5xzkhJi9l16-6" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;CI&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Continuous Integration&lt;/font&gt;&lt;/div&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;flipH=1;" vertex="1" parent="1">
+        <mxCell id="kDgu9Qi8O5xzkhJi9l16-6" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;CI&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Continuous Integration&lt;/font&gt;&lt;/div&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;flipH=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="280" y="400" width="360" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kDgu9Qi8O5xzkhJi9l16-7" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;CT&lt;/b&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;Continuous Test&lt;/div&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;flipH=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="kDgu9Qi8O5xzkhJi9l16-7" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;CT&lt;/b&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;Continuous Testing&lt;/div&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;flipH=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="630" y="400" width="360" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kDgu9Qi8O5xzkhJi9l16-8" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;CD&lt;/b&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;Continuous Deployment&lt;/div&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;flipH=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="kDgu9Qi8O5xzkhJi9l16-8" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;CD&lt;/b&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;Continuous Delivery / Deployment&lt;/div&gt;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;flipH=1;fontSize=20;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="980" y="400" width="360" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kDgu9Qi8O5xzkhJi9l16-9" value="Jenkins" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
