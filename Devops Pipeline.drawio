@@ -34,11 +34,8 @@
         <mxCell id="ITMyxybklK6B1gHjJzlH-1" value="Dev. Eng." style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="100" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ITMyxybklK6B1gHjJzlH-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ITMyxybklK6B1gHjJzlH-3" target="kDgu9Qi8O5xzkhJi9l16-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ITMyxybklK6B1gHjJzlH-3" value="Jenkins Server" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Server_Desktop.svg;" vertex="1" parent="1">
-          <mxGeometry x="160" y="450" width="42.599999999999994" height="54" as="geometry" />
+          <mxGeometry x="320" y="520" width="42.599999999999994" height="54" as="geometry" />
         </mxCell>
         <mxCell id="ITMyxybklK6B1gHjJzlH-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ITMyxybklK6B1gHjJzlH-4" target="ITMyxybklK6B1gHjJzlH-3">
           <mxGeometry relative="1" as="geometry" />
@@ -58,7 +55,7 @@
         <mxCell id="ITMyxybklK6B1gHjJzlH-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ITMyxybklK6B1gHjJzlH-5" target="ITMyxybklK6B1gHjJzlH-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ITMyxybklK6B1gHjJzlH-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.687;entryY=0.204;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ITMyxybklK6B1gHjJzlH-6" target="ITMyxybklK6B1gHjJzlH-4">
+        <mxCell id="ITMyxybklK6B1gHjJzlH-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ITMyxybklK6B1gHjJzlH-6" target="ITMyxybklK6B1gHjJzlH-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
