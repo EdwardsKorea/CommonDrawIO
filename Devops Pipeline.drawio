@@ -14,10 +14,10 @@
           <mxGeometry x="950" y="700" width="360" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kDgu9Qi8O5xzkhJi9l16-10" value="Tortoise GIt" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kDgu9Qi8O5xzkhJi9l16-11" value="Bitbucket&lt;div&gt;Repository&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="250" y="1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ITMyxybklK6B1gHjJzlH-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kDgu9Qi8O5xzkhJi9l16-12" target="ITMyxybklK6B1gHjJzlH-4">
           <mxGeometry relative="1" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="310" y="100" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kDgu9Qi8O5xzkhJi9l16-15" value="Jenkins Server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="870" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ITMyxybklK6B1gHjJzlH-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ITMyxybklK6B1gHjJzlH-1" target="ITMyxybklK6B1gHjJzlH-4">
           <mxGeometry relative="1" as="geometry" />
