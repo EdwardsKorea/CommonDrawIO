@@ -565,7 +565,7 @@
           <mxGeometry x="465" y="650" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tiHuXlWKFyXP9bCN3NHN-40" value="Test Engineer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="1777.5" y="315" width="30" height="60" as="geometry" />
+          <mxGeometry x="812" y="860" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tiHuXlWKFyXP9bCN3NHN-42" value="Jenkins" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="420" width="80" height="35" as="geometry" />
@@ -633,10 +633,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tiHuXlWKFyXP9bCN3NHN-57" value="Test suit script&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Test-01&lt;/div&gt;&lt;div&gt;2. Test-02&lt;/div&gt;&lt;div&gt;.&lt;/div&gt;&lt;div&gt;.&lt;/div&gt;&lt;div&gt;.&lt;/div&gt;&lt;div&gt;10. Test-10&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="280" width="100" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="xsonkzInXxUJwBQSVLiN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.015;entryY=0.218;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tiHuXlWKFyXP9bCN3NHN-57" target="tiHuXlWKFyXP9bCN3NHN-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="580" y="820" width="100" height="140" as="geometry" />
         </mxCell>
         <mxCell id="xsonkzInXxUJwBQSVLiN-6" value="Send Test Result" style="endArrow=classic;html=1;rounded=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;curved=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tiHuXlWKFyXP9bCN3NHN-1" target="tiHuXlWKFyXP9bCN3NHN-29">
           <mxGeometry x="-0.1486" width="50" height="50" relative="1" as="geometry">
@@ -649,6 +646,9 @@
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="xsonkzInXxUJwBQSVLiN-7" value="CuCumber" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="970" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
