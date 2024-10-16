@@ -963,7 +963,7 @@
         <mxCell id="j9AwV4AADIP-C1lpnZg5-0" />
         <mxCell id="j9AwV4AADIP-C1lpnZg5-1" parent="j9AwV4AADIP-C1lpnZg5-0" />
         <mxCell id="j9AwV4AADIP-C1lpnZg5-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;PCEB&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="j9AwV4AADIP-C1lpnZg5-1">
-          <mxGeometry x="1830" y="1789.5" width="560" height="250" as="geometry" />
+          <mxGeometry x="2001" y="1789.5" width="480" height="250" as="geometry" />
         </mxCell>
         <mxCell id="j9AwV4AADIP-C1lpnZg5-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 26px;&quot;&gt;PCAS Office Simulator&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;horizontal=1;verticalAlign=top;" vertex="1" parent="j9AwV4AADIP-C1lpnZg5-1">
           <mxGeometry x="2680" y="1160" width="583.34" height="1060" as="geometry" />
@@ -1377,10 +1377,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j9AwV4AADIP-C1lpnZg5-106" value="Azure" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="j9AwV4AADIP-C1lpnZg5-1">
-          <mxGeometry x="2040" y="1779.5" width="280" height="260" as="geometry" />
+          <mxGeometry x="2191" y="1779.5" width="280" height="260" as="geometry" />
         </mxCell>
         <mxCell id="j9AwV4AADIP-C1lpnZg5-107" value="Docker Hub&lt;div&gt;- Image&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="j9AwV4AADIP-C1lpnZg5-1">
-          <mxGeometry x="2180" y="1909.5" width="120" height="80" as="geometry" />
+          <mxGeometry x="2331" y="1909.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="j9AwV4AADIP-C1lpnZg5-108" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=4;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="j9AwV4AADIP-C1lpnZg5-1" target="qCshfUqVKWFPuTR1CrnS-0" source="j9AwV4AADIP-C1lpnZg5-107">
           <mxGeometry relative="1" as="geometry">
@@ -1392,13 +1392,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j9AwV4AADIP-C1lpnZg5-110" value="Azure devops" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="j9AwV4AADIP-C1lpnZg5-1">
-          <mxGeometry x="1870" y="1869.5" width="120" height="80" as="geometry" />
+          <mxGeometry x="2021" y="1869.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="j9AwV4AADIP-C1lpnZg5-111" value="Image dowload&lt;div&gt;SDG/UI Software for control EUV&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="j9AwV4AADIP-C1lpnZg5-1">
-          <mxGeometry x="2430" y="1880.75" width="200" height="40" as="geometry" />
+          <mxGeometry x="2480" y="1880.75" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="j9AwV4AADIP-C1lpnZg5-112" value="WSL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="j9AwV4AADIP-C1lpnZg5-1">
-          <mxGeometry x="2110" y="1934.5" width="50" height="30" as="geometry" />
+          <mxGeometry x="2261" y="1934.5" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j9AwV4AADIP-C1lpnZg5-123" value="1. Azure IP Address(일반 인터넷 접속 불가) 방화벽 외에 있으면.&lt;div&gt;2. Onevirtualoffice 주소면 가능, 방화벽 내에 있으므로.&lt;/div&gt;&lt;div&gt;&lt;span data-teams=&quot;true&quot;&gt;&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot;&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, system-ui, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Web&amp;quot;, sans-serif; font-size: 14px; white-space-collapse: preserve;&quot;&gt;&lt;p&gt;pcedockerregistry001.azurecr.io&lt;/p&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="j9AwV4AADIP-C1lpnZg5-1">
           <mxGeometry x="2600" y="2730" width="433" height="170" as="geometry" />
