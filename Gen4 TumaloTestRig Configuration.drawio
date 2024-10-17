@@ -958,7 +958,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="페이지-2의 복사본" id="S56XHQARpLeQz9lo8DcS">
-    <mxGraphModel dx="268" dy="931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-266" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="j9AwV4AADIP-C1lpnZg5-0" />
         <mxCell id="j9AwV4AADIP-C1lpnZg5-1" parent="j9AwV4AADIP-C1lpnZg5-0" />
@@ -1399,9 +1399,6 @@
         </mxCell>
         <mxCell id="j9AwV4AADIP-C1lpnZg5-112" value="WSL" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="j9AwV4AADIP-C1lpnZg5-1">
           <mxGeometry x="2261" y="1934.5" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="j9AwV4AADIP-C1lpnZg5-123" value="1. Azure IP Address(일반 인터넷 접속 불가) 방화벽 외에 있으면.&lt;div&gt;2. Onevirtualoffice 주소면 가능, 방화벽 내에 있으므로.&lt;/div&gt;&lt;div&gt;&lt;span data-teams=&quot;true&quot;&gt;&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot;&gt;&lt;span style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, system-ui, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Web&amp;quot;, sans-serif; font-size: 14px; white-space-collapse: preserve;&quot;&gt;&lt;p&gt;pcedockerregistry001.azurecr.io&lt;/p&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="j9AwV4AADIP-C1lpnZg5-1">
-          <mxGeometry x="2600" y="2730" width="433" height="170" as="geometry" />
         </mxCell>
         <mxCell id="j9AwV4AADIP-C1lpnZg5-125" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#001DBC;strokeWidth=3;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;fillColor=#0050ef;exitX=0.027;exitY=0.519;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="j9AwV4AADIP-C1lpnZg5-1" target="qCshfUqVKWFPuTR1CrnS-0" source="j9AwV4AADIP-C1lpnZg5-12">
           <mxGeometry relative="1" as="geometry">
